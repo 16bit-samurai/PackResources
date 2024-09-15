@@ -1,0 +1,47 @@
+name: package
+
+on:
+  push:
+    tags:
+      - 'r*'
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{github.ref_name}}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: compression
+        run: |
+          zip -r ./output.zip assets/ pack.mcmeta pack.png
+
+      - name: release
+        id: release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: "Release ${{ github.ref }}"
+          draft: false
+          prerelease: false
+
+      - name: upload
+        id: upload
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.release.outputs.upload_url }}
+          asset_path: ./output.zip
+          asset_name: "【NyaaWorks喵工坊】家具材质包.zip"
+          asset_content_type: application/zip
