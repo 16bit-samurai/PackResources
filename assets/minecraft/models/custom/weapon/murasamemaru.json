@@ -1,0 +1,7 @@
+{
+	"parent": "custom/weapon/murasame",
+	"textures": {
+		"0": "custom/weapon/murasamemaru",
+		"particle": "custom/weapon/murasamemaru"
+	}
+}

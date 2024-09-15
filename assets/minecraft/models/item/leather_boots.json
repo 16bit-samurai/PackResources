@@ -1,0 +1,26 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_boots"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 5001
+            },
+            "model": "item/armor/manboots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5002
+            },
+            "model": "item/armor/catboots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5003
+            },
+            "model": "item/armor/samuraiboots"
+        }
+    ]
+}

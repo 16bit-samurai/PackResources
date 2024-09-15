@@ -1,0 +1,79 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"layer0": "custom/special/coin_cube"
+	},
+	"elements": [
+		{
+			"from": [6, 4, 8],
+			"to": [8, 6, 10],
+			"rotation": {"angle": 45, "axis": "z", "origin": [6.5, 6.5, 8]},
+			"faces": {
+				"north": {"uv": [8, 8, 0, 16], "texture": "#layer0"},
+				"east": {"uv": [16, 0, 8, 8], "texture": "#layer0"},
+				"south": {"uv": [16, 0, 8, 8], "rotation": 90, "texture": "#layer0"},
+				"west": {"uv": [8, 8, 0, 16], "rotation": 90, "texture": "#layer0"},
+				"up": {"uv": [16, 0, 8, 8], "rotation": 180, "texture": "#layer0"},
+				"down": {"uv": [8, 8, 0, 16], "rotation": 90, "texture": "#layer0"}
+			}
+		},
+		{
+			"from": [6.5, 8, 9.75],
+			"to": [8.5, 10, 11.75],
+			"rotation": {"angle": 45, "axis": "z", "origin": [9.5, 9.5, 8]},
+			"faces": {
+				"north": {"uv": [8, 8, 0, 16], "texture": "#layer0"},
+				"east": {"uv": [16, 0, 8, 8], "texture": "#layer0"},
+				"south": {"uv": [16, 0, 8, 8], "rotation": 90, "texture": "#layer0"},
+				"west": {"uv": [8, 8, 0, 16], "rotation": 90, "texture": "#layer0"},
+				"up": {"uv": [16, 0, 8, 8], "rotation": 180, "texture": "#layer0"},
+				"down": {"uv": [8, 8, 0, 16], "rotation": 90, "texture": "#layer0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2, 0],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2, 0],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 65, 45],
+			"translation": [0.5, 3.2, 0.5],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 65, 45],
+			"translation": [0.5, 3.2, 0.5],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"ground": {
+			"translation": [0, 2, -1.25],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"rotation": [-45, 0, 0],
+			"translation": [0, -1.5, 0],
+			"scale": [2, 2, 2]
+		},
+		"head": {
+			"rotation": [45, -180, 0],
+			"translation": [0, 10, 5]
+		},
+		"fixed": {
+			"rotation": [-45, 0, 0],
+			"translation": [0, -1, -5.5],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	},
+	"groups": [
+		{
+			"name": "s",
+			"origin": [9.5, 6.5, 8],
+			"children": [0, 1]
+		}
+	]
+}

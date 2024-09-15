@@ -1,0 +1,69 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/magma_cream"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 5001
+            },
+            "model": "item/magma_cream/lmg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5002
+            },
+            "model": "item/magma_cream/sr"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5003
+            },
+            "model": "item/magma_cream/hairball"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5004
+            },
+            "model": "item/magma_cream/money100"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5005
+            },
+            "model": "item/magma_cream/bait2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5006
+            },
+            "model": "item/magma_cream/seafood19"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5007
+            },
+            "model": "item/magma_cream/insect13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5008
+            },
+            "model": "item/magma_cream/fish34"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5009
+            },
+            "model": "item/magma_cream/fish79"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5010
+            },
+            "model": "item/magma_cream/buddha"
+        }
+    
+    ]
+}

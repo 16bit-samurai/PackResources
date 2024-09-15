@@ -1,0 +1,26 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_leggings"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 5001
+            },
+            "model": "item/armor/manleg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5002
+            },
+            "model": "item/armor/catleg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5003
+            },
+            "model": "item/armor/samuraileg"
+        }
+    ]
+}

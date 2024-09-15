@@ -1,0 +1,8 @@
+{
+	"parent": "custom/special/equipment_box",
+	"textures": {
+		"0": "custom/special/equipment_box_green",
+		"1": "custom/special/kedama_onbox",
+		"particle": "custom/special/kedama_onbox"
+	}
+}

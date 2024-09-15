@@ -1,0 +1,38 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/gold_nugget"
+  },
+  "overrides":[
+  {"predicate": {"custom_model_data":110000}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110001}, "model": "custom/special/equipment_box_gold"},
+  {"predicate": {"custom_model_data":110002}, "model": "custom/special/equipment_box_blue"},
+  {"predicate": {"custom_model_data":110003}, "model": "custom/special/equipment_box_green"},
+  {"predicate": {"custom_model_data":110004}, "model": "custom/special/equipment_box_white"},
+  {"predicate": {"custom_model_data":110005}, "model": "custom/special/equipment_box_gray"},
+  {"predicate": {"custom_model_data":110006}, "model": "custom/special/equipment_box_black"},
+  {"predicate": {"custom_model_data":110007}, "model": "custom/special/equipment_box_red"},
+  {"predicate": {"custom_model_data":110008}, "model": "custom/special/equipment_box_pink"},
+  {"predicate": {"custom_model_data":110009}, "model": "custom/special/equipment_box_purple"},
+  {"predicate": {"custom_model_data":110010}, "model": "custom/special/mark_of_glory"},
+  {"predicate": {"custom_model_data":110011}, "model": "custom/special/coin_cube_1"},
+  {"predicate": {"custom_model_data":110012}, "model": "custom/special/coin_cube_2"},
+  {"predicate": {"custom_model_data":110013}, "model": "custom/special/coin_cube_4"},
+  {"predicate": {"custom_model_data":110014}, "model": "custom/special/fragment_of_memory"},
+  {"predicate": {"custom_model_data":110015}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110016}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110017}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110018}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110019}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110020}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110021}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110022}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110023}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110024}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110025}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110026}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110027}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110028}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110029}, "model": "custom/missing"}
+  ]
+}

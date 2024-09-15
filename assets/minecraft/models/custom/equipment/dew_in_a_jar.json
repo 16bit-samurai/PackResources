@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "custom/equipment/dew_in_a_jar"
+	}
+}

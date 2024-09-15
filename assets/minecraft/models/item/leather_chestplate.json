@@ -1,0 +1,26 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_chestplate"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 5001
+            },
+            "model": "item/armor/manbody"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5002
+            },
+            "model": "item/armor/catbody"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5003
+            },
+            "model": "item/armor/samuraibody"
+        }
+    ]
+}

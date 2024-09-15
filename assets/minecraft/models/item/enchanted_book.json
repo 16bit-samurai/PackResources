@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/enchanted_book"
+  },
+   "overrides": [
+    {
+        "predicate": {
+            "custom_model_data": 1
+        },
+        "model": "item/ticket/ticket00"
+    },
+    {
+      "predicate": {
+          "custom_model_data": 2
+      },
+      "model": "item/ticket/ticket01"
+  },
+  {
+    "predicate": {
+        "custom_model_data": 3
+    },
+    "model": "item/ticket/ticket02"
+}
+]
+}

@@ -1,0 +1,32 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_sword"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 5001
+            },
+            "model": "item/iron_sword/chainsword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5002
+            },
+            "model": "item/iron_sword/stronger"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5003
+            },
+            "model": "item/iron_sword/speeder"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5004
+            },
+            "model": "item/iron_sword/k001"
+        }
+    ]
+}

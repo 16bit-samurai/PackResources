@@ -1,0 +1,29 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/book"
+  },
+  "overrides":[
+  {"predicate": {"custom_model_data":110000}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110001}, "model": "custom/tools/eye_of_insight"},
+  {"predicate": {"custom_model_data":110002}, "model": "custom/tools/book_of_fusion"},
+  {"predicate": {"custom_model_data":110003}, "model": "custom/tools/book_of_transform"},
+  {"predicate": {"custom_model_data":110004}, "model": "custom/tools/void_belt"},
+  {"predicate": {"custom_model_data":110005}, "model": "custom/tools/tale_of_odyssey"},
+  {"predicate": {"custom_model_data":110006}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110007}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110008}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110009}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110010}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110011}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110012}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110013}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110014}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110015}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110016}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110017}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110018}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110019}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110020}, "model": "custom/missing"}
+  ]
+}

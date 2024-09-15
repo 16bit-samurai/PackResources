@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "custom/equipment/iron_will"
+	},
+	"display": {
+		"gui": {
+			"translation": [ -0.5, 0, 0]
+		}
+	}
+}

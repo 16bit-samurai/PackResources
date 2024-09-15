@@ -1,0 +1,6 @@
+{
+	"parent": "custom/helmet/survivor",
+	"textures": {
+		"1": "custom/helmet/demeter"
+	}
+}

@@ -1,0 +1,26 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/fishing_rod"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "cast": 1
+            },
+            "model": "item/fishing_rod_cast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5001
+            },
+            "model": "item/fishing_rod/rod18"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5002
+            },
+            "model": "item/fishing_rod/rod32"
+        }
+    ]
+}
