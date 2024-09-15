@@ -1,0 +1,6 @@
+{
+    "parent": "item/crossbow",
+    "textures": {
+        "layer0": "item/pink_crystal_crossbow_3"
+    }
+}
