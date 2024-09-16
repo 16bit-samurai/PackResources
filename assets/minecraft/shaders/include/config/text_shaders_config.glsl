@@ -79,6 +79,6 @@ TEXT_EFFECT(255, 254, 48) {
 	//dark_red
 }
 
-TEXT_EFFECT(255, 254, 254) {
+TEXT_EFFECT(255, 0, 254) {
 	applyRemoveShadow();
 }
