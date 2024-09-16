@@ -12,8 +12,8 @@
         },
         {
             "type": "directory",
-            "source": "farm",
-            "prefix": "farm/"
+            "source": "af",
+            "prefix": "af/"
         }
     ]
 }

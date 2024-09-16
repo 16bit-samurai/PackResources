@@ -3,16 +3,16 @@
     "pack_format": 34,
     "description": [
       {
-        "text": "【喵窝·毛线】",
+        "text": "喵窝/毛线",
         "color": "white"
       },
       {
-        "text": "更新至2024家具更新",
+        "text": " 服务器资源包",
         "color": "yellow"
       },
       {
-        "text": "\n盔甲穿着材质暂不支持Optifine/Iris",
-        "color": "dark_gray"
+        "text": "\n ver.240916a",
+        "color": "gray"
       }
     ]
   }
