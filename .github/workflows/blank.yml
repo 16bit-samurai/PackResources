@@ -21,6 +21,12 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           lfs: true
 
+      - name: Read info
+        id: tags
+        shell: bash
+        run: |
+          echo ::set-output name=VERSION::${GITHUB_REF/refs\/tags\/r/}
+
       - name: compression
         run: |
           zip -r ./output.zip assets/ pack.mcmeta pack.png
@@ -44,5 +50,5 @@ jobs:
         with:
           upload_url: ${{ steps.release.outputs.upload_url }}
           asset_path: ./output.zip
-          asset_name: "NyaaWorks.zip"
+          asset_name: "NyaaResources-${{ steps.tags.outputs.version }}.zip"
           asset_content_type: application/zip
