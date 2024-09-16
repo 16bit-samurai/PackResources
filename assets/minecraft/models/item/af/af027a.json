@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "af/af027",
-		"1": "block/campfire_fire",
+		"1": "af/campfirefire",
 		"particle": "af/af027"
 	},
 	"elements": [

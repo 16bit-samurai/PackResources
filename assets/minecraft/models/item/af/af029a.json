@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "af/af029",
 		"1": "af/af027",
-		"2": "block/campfire_fire",
+		"2": "af/campfirefire",
 		"particle": "af/af027"
 	},
 	"elements": [
