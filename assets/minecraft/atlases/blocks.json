@@ -14,6 +14,16 @@
             "type": "directory",
             "source": "af",
             "prefix": "af/"
+        },
+        {
+            "type": "directory",
+            "source": "tool",
+            "prefix": "tool/"
+        },
+        {
+            "type": "directory",
+            "source": "food",
+            "prefix": "food/"
         }
     ]
 }

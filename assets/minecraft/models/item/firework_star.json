@@ -6371,6 +6371,171 @@
       },
       "model": "item/mmzfun/mmz027"
     },
+
+    {
+      "predicate": {
+        "custom_model_data": 31001
+      },
+      "model": "item/lyyfun/lyy001"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31002
+      },
+      "model": "item/lyyfun/lyy002"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31003
+      },
+      "model": "item/lyyfun/lyy003"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31004
+      },
+      "model": "item/lyyfun/lyy004"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31005
+      },
+      "model": "item/lyyfun/lyy005"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31006
+      },
+      "model": "item/lyyfun/lyy006"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31007
+      },
+      "model": "item/lyyfun/lyy007"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31008
+      },
+      "model": "item/lyyfun/lyy008"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31009
+      },
+      "model": "item/lyyfun/lyy009"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31010
+      },
+      "model": "item/lyyfun/lyy010"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31011
+      },
+      "model": "item/lyyfun/lyy011"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31012
+      },
+      "model": "item/lyyfun/t001"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31013
+      },
+      "model": "item/lyyfun/t002"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31014
+      },
+      "model": "item/lyyfun/t003"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31015
+      },
+      "model": "item/lyyfun/t004"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31016
+      },
+      "model": "item/lyyfun/t005"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31017
+      },
+      "model": "item/lyyfun/t006"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31018
+      },
+      "model": "item/lyyfun/t007"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31019
+      },
+      "model": "item/lyyfun/t008"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31020
+      },
+      "model": "item/lyyfun/t009"
+    },
+
+    {
+      "predicate": {
+        "custom_model_data": 32001
+      },
+      "model": "item/zhanglang/zhanglang001"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32002
+      },
+      "model": "item/zhanglang/zhanglang002"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32003
+      },
+      "model": "item/zhanglang/zhanglang003"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32004
+      },
+      "model": "item/zhanglang/zhanglang004"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32005
+      },
+      "model": "item/zhanglang/zhanglang005"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32006
+      },
+      "model": "item/zhanglang/zhanglang006"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32007
+      },
+      "model": "item/zhanglang/zhanglang007"
+    },
+
     {
       "predicate": {
         "custom_model_data": 100001

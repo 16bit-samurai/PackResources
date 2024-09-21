@@ -87,6 +87,12 @@
                 "custom_model_data": 5014
             },
             "model": "item/heart_of_the_sea/h001"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5015
+            },
+            "model": "item/heart_of_the_sea/zhanglang003"
         }
     ]
 }
