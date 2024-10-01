@@ -33,6 +33,12 @@
       "custom_model_data": 5
   },
   "model": "item/ticket/ticket04"
+},
+{
+  "predicate": {
+      "custom_model_data": 6
+  },
+  "model": "item/ticket/nyaa_tea_pack"
 }
 ]
 }
