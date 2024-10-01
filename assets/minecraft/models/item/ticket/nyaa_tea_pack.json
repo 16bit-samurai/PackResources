@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "nyaa_tea_pack",
+		"0": "block/nyaa_tea_pack",
 		"particle": "nyaa_tea_pack"
 	},
 	"elements": [
