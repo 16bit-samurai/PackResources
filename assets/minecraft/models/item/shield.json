@@ -52,14 +52,14 @@
             "predicate": {
                 "custom_model_data": 5001
             },
-            "model": "item/shield/mmz024"
+            "model": "item/netc/shield/mmz024"
         },
         {
             "predicate": {
                 "custom_model_data": 5001,
                 "blocking": 1
             },
-            "model": "item/shield/mmz023"
+            "model": "item/netc/shield/mmz023"
         }
     ]
 }

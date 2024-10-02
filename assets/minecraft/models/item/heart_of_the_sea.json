@@ -8,91 +8,91 @@
             "predicate": {
                 "custom_model_data": 5001
             },
-            "model": "item/heart_of_the_sea/archer"
+            "model": "item/netc/heart_of_the_sea/archer"
         },
         {
             "predicate": {
                 "custom_model_data": 5002
             },
-            "model": "item/heart_of_the_sea/wizard"
+            "model": "item/netc/heart_of_the_sea/wizard"
         },
         {
             "predicate": {
                 "custom_model_data": 5003
             },
-            "model": "item/heart_of_the_sea/summoner"
+            "model": "item/netc/heart_of_the_sea/summoner"
         },
         {
             "predicate": {
                 "custom_model_data": 5004
             },
-            "model": "item/heart_of_the_sea/priest"
+            "model": "item/netc/heart_of_the_sea/priest"
         },
         {
             "predicate": {
                 "custom_model_data": 5005
             },
-            "model": "item/heart_of_the_sea/turkey"
+            "model": "item/netc/heart_of_the_sea/turkey"
         },
         {
             "predicate": {
                 "custom_model_data": 5006
             },
-            "model": "item/heart_of_the_sea/guard"
+            "model": "item/netc/heart_of_the_sea/guard"
         },
         {
             "predicate": {
                 "custom_model_data": 5007
             },
-            "model": "item/heart_of_the_sea/headred"
+            "model": "item/netc/heart_of_the_sea/headred"
         },
         {
             "predicate": {
                 "custom_model_data": 5008
             },
-            "model": "item/heart_of_the_sea/solderhelment"
+            "model": "item/netc/heart_of_the_sea/solderhelment"
         },
         {
             "predicate": {
                 "custom_model_data": 5009
             },
-            "model": "item/heart_of_the_sea/strongerhat"
+            "model": "item/netc/heart_of_the_sea/strongerhat"
         },
         {
             "predicate": {
                 "custom_model_data": 5010
             },
-            "model": "item/heart_of_the_sea/wood_pro_boat"
+            "model": "item/netc/heart_of_the_sea/wood_pro_boat"
         },
         {
             "predicate": {
                 "custom_model_data": 5011
             },
-            "model": "item/heart_of_the_sea/helment6"
+            "model": "item/netc/heart_of_the_sea/helment6"
         },
         {
             "predicate": {
                 "custom_model_data": 5012
             },
-            "model": "item/heart_of_the_sea/speederhat"
+            "model": "item/netc/heart_of_the_sea/speederhat"
         },
         {
             "predicate": {
                 "custom_model_data": 5013
             },
-            "model": "item/heart_of_the_sea/bath_boat"
+            "model": "item/netc/heart_of_the_sea/bath_boat"
         },
         {
             "predicate": {
                 "custom_model_data": 5014
             },
-            "model": "item/heart_of_the_sea/h001"
+            "model": "item/netc/heart_of_the_sea/h001"
         },
         {
             "predicate": {
                 "custom_model_data": 5015
             },
-            "model": "item/heart_of_the_sea/zhanglang003"
+            "model": "item/netc/heart_of_the_sea/zhanglang003"
         }
     ]
 }

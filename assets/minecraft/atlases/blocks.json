@@ -2,8 +2,13 @@
     "sources": [
         {
             "type": "directory",
-            "source": "miscellaneous",
-            "prefix": "miscellaneous/"
+            "source": "netc",
+            "prefix": "netc/"
+        },
+        {
+            "type": "directory",
+            "source": "nw",
+            "prefix": "nw/"
         },
         {
             "type": "directory",
@@ -12,18 +17,8 @@
         },
         {
             "type": "directory",
-            "source": "af",
-            "prefix": "af/"
-        },
-        {
-            "type": "directory",
             "source": "tool",
             "prefix": "tool/"
-        },
-        {
-            "type": "directory",
-            "source": "food",
-            "prefix": "food/"
         }
     ]
 }

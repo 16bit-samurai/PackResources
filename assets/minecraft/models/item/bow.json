@@ -50,14 +50,14 @@
             "predicate": {
                 "custom_model_data": 6001
             },
-            "model": "item/toolskins/pink_crystal_bow_0"
+            "model": "item/netc/toolskins/pink_crystal_bow_0"
         },
         {
             "predicate": {
                 "custom_model_data": 6001,
                 "pulling": 1
             },
-            "model": "item/toolskins/pink_crystal_bow_1"
+            "model": "item/netc/toolskins/pink_crystal_bow_1"
         },
         {
             "predicate": {
@@ -65,7 +65,7 @@
                 "pulling": 1,
                 "pull": 0.65
             },
-            "model": "item/toolskins/pink_crystal_bow_2"
+            "model": "item/netc/toolskins/pink_crystal_bow_2"
         },
         {
             "predicate": {
@@ -73,20 +73,20 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "item/toolskins/pink_crystal_bow_3"
+            "model": "item/netc/toolskins/pink_crystal_bow_3"
         },
         {
             "predicate": {
                 "custom_model_data": 6002
             },
-            "model": "item/toolskins/leaf_bow_0"
+            "model": "item/netc/toolskins/leaf_bow_0"
         },
         {
             "predicate": {
                 "custom_model_data": 6002,
                 "pulling": 1
             },
-            "model": "item/toolskins/leaf_bow_1"
+            "model": "item/netc/toolskins/leaf_bow_1"
         },
         {
             "predicate": {
@@ -94,7 +94,7 @@
                 "pulling": 1,
                 "pull": 0.65
             },
-            "model": "item/toolskins/leaf_bow_2"
+            "model": "item/netc/toolskins/leaf_bow_2"
         },
         {
             "predicate": {
@@ -102,7 +102,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "item/toolskins/leaf_bow_3"
+            "model": "item/netc/toolskins/leaf_bow_3"
         }
     ]
 }

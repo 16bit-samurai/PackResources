@@ -8,19 +8,19 @@
             "predicate": {
                 "custom_model_data": 5001
             },
-            "model": "item/armor/manleg"
+            "model": "item/netc/armor/manleg"
         },
         {
             "predicate": {
                 "custom_model_data": 5002
             },
-            "model": "item/armor/catleg"
+            "model": "item/netc/armor/catleg"
         },
         {
             "predicate": {
                 "custom_model_data": 5003
             },
-            "model": "item/armor/samuraileg"
+            "model": "item/netc/armor/samuraileg"
         }
     ]
 }

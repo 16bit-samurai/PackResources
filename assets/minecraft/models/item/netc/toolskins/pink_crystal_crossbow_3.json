@@ -1,0 +1,6 @@
+{
+    "parent": "item/crossbow",
+    "textures": {
+        "layer0": "netc/toolskins/pink_crystal_crossbow_3"
+    }
+}

@@ -8,13 +8,13 @@
           "predicate": {
               "custom_model_data": 5001
           },
-          "model": "item/golden_pickaxe/ip"
+          "model": "item/netc/golden_pickaxe/ip"
       },
       {
           "predicate": {
               "custom_model_data": 5002
           },
-          "model": "item/golden_pickaxe/gp"
+          "model": "item/netc/golden_pickaxe/gp"
       }
   ]
 }

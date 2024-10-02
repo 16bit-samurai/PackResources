@@ -1,0 +1,14 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "netc/gold_ingot/goldencoin"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 90, -60],
+			"translation": [-7, -4, -7],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	}
+}

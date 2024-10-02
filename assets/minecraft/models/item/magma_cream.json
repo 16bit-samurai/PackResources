@@ -8,61 +8,61 @@
             "predicate": {
                 "custom_model_data": 5001
             },
-            "model": "item/magma_cream/lmg"
+            "model": "item/netc/magma_cream/lmg"
         },
         {
             "predicate": {
                 "custom_model_data": 5002
             },
-            "model": "item/magma_cream/sr"
+            "model": "item/netc/magma_cream/sr"
         },
         {
             "predicate": {
                 "custom_model_data": 5003
             },
-            "model": "item/magma_cream/hairball"
+            "model": "item/netc/magma_cream/hairball"
         },
         {
             "predicate": {
                 "custom_model_data": 5004
             },
-            "model": "item/magma_cream/money100"
+            "model": "item/netc/magma_cream/money100"
         },
         {
             "predicate": {
                 "custom_model_data": 5005
             },
-            "model": "item/magma_cream/bait2"
+            "model": "item/netc/magma_cream/bait2"
         },
         {
             "predicate": {
                 "custom_model_data": 5006
             },
-            "model": "item/magma_cream/seafood19"
+            "model": "item/netc/magma_cream/seafood19"
         },
         {
             "predicate": {
                 "custom_model_data": 5007
             },
-            "model": "item/magma_cream/insect13"
+            "model": "item/netc/magma_cream/insect13"
         },
         {
             "predicate": {
                 "custom_model_data": 5008
             },
-            "model": "item/magma_cream/fish34"
+            "model": "item/netc/magma_cream/fish34"
         },
         {
             "predicate": {
                 "custom_model_data": 5009
             },
-            "model": "item/magma_cream/fish79"
+            "model": "item/netc/magma_cream/fish79"
         },
         {
             "predicate": {
                 "custom_model_data": 5010
             },
-            "model": "item/magma_cream/buddha"
+            "model": "item/netc/magma_cream/buddha"
         }
     
     ]

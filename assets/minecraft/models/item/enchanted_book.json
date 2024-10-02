@@ -8,37 +8,37 @@
         "predicate": {
             "custom_model_data": 1
         },
-        "model": "item/ticket/ticket00"
+        "model": "item/netc/tickets/ticket_gongjv"
     },
     {
       "predicate": {
           "custom_model_data": 2
       },
-      "model": "item/ticket/ticket01"
+      "model": "item/netc/tickets/ticket_psfun"
   },
   {
     "predicate": {
         "custom_model_data": 3
     },
-    "model": "item/ticket/ticket02"
+    "model": "item/netc/tickets/ticket_mmzfun"
 },
 {
   "predicate": {
       "custom_model_data": 4
   },
-  "model": "item/ticket/ticket03"
+  "model": "item/netc/tickets/ticket_af"
 },
 {
   "predicate": {
       "custom_model_data": 5
   },
-  "model": "item/ticket/ticket04"
+  "model": "item/netc/tickets/ticket_lyyfun"
 },
 {
   "predicate": {
       "custom_model_data": 6
   },
-  "model": "item/ticket/nyaa_tea_pack"
+  "model": "item/netc/tickets/ticket_nyaa_tea_pack"
 }
 ]
 }

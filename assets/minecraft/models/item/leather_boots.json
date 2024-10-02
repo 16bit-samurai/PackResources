@@ -8,19 +8,19 @@
             "predicate": {
                 "custom_model_data": 5001
             },
-            "model": "item/armor/manboots"
+            "model": "item/netc/armor/manboots"
         },
         {
             "predicate": {
                 "custom_model_data": 5002
             },
-            "model": "item/armor/catboots"
+            "model": "item/netc/armor/catboots"
         },
         {
             "predicate": {
                 "custom_model_data": 5003
             },
-            "model": "item/armor/samuraiboots"
+            "model": "item/netc/armor/samuraiboots"
         }
     ]
 }

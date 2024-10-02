@@ -8,13 +8,13 @@
           "predicate": {
               "custom_model_data": 6001
           },
-          "model": "item/toolskins/pink_crystal_pickaxe"
+          "model": "item/netc/toolskins/pink_crystal_pickaxe"
       },
       {
           "predicate": {
               "custom_model_data": 6002
           },
-          "model": "item/toolskins/leaf_pickaxe"
+          "model": "item/netc/toolskins/leaf_pickaxe"
       }
   ]
 }

@@ -8,13 +8,13 @@
           "predicate": {
               "custom_model_data": 6001
           },
-          "model": "item/toolskins/pink_crystal_hoe"
+          "model": "item/netc/toolskins/pink_crystal_hoe"
       },
       {
           "predicate": {
               "custom_model_data": 6002
           },
-          "model": "item/toolskins/leaf_hoe"
+          "model": "item/netc/toolskins/leaf_hoe"
       }
   ]
 }

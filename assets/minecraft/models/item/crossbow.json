@@ -63,14 +63,14 @@
             "predicate": {
                 "custom_model_data": 6001
             },
-            "model": "item/toolskins/pink_crystal_crossbow_0"
+            "model": "item/netc/toolskins/pink_crystal_crossbow_0"
         },
         {
             "predicate": {
                 "custom_model_data": 6001,
                 "pulling": 1
             },
-            "model": "item/toolskins/pink_crystal_crossbow_1"
+            "model": "item/netc/toolskins/pink_crystal_crossbow_1"
         },
         {
             "predicate": {
@@ -78,7 +78,7 @@
                 "pulling": 1,
                 "pull": 0.58
             },
-            "model": "item/toolskins/pink_crystal_crossbow_2"
+            "model": "item/netc/toolskins/pink_crystal_crossbow_2"
         },
         {
             "predicate": {
@@ -86,14 +86,14 @@
                 "pulling": 1,
                 "pull": 1.0
             },
-            "model": "item/toolskins/pink_crystal_crossbow_3"
+            "model": "item/netc/toolskins/pink_crystal_crossbow_3"
         },
         {
             "predicate": {
                 "custom_model_data": 6001,
                 "charged": 1
             },
-            "model": "item/toolskins/pink_crystal_crossbow_arrow"
+            "model": "item/netc/toolskins/pink_crystal_crossbow_arrow"
         },
         {
             "predicate": {
@@ -101,20 +101,20 @@
                 "charged": 1,
                 "firework": 1
             },
-            "model": "item/toolskins/pink_crystal_crossbow_firework"
+            "model": "item/netc/toolskins/pink_crystal_crossbow_firework"
         },
         {
             "predicate": {
                 "custom_model_data": 6002
             },
-            "model": "item/toolskins/leaf_crossbow_0"
+            "model": "item/netc/toolskins/leaf_crossbow_0"
         },
         {
             "predicate": {
                 "custom_model_data": 6002,
                 "pulling": 1
             },
-            "model": "item/toolskins/leaf_crossbow_1"
+            "model": "item/netc/toolskins/leaf_crossbow_1"
         },
         {
             "predicate": {
@@ -122,7 +122,7 @@
                 "pulling": 1,
                 "pull": 0.58
             },
-            "model": "item/toolskins/leaf_crossbow_2"
+            "model": "item/netc/toolskins/leaf_crossbow_2"
         },
         {
             "predicate": {
@@ -130,14 +130,14 @@
                 "pulling": 1,
                 "pull": 1.0
             },
-            "model": "item/toolskins/leaf_crossbow_3"
+            "model": "item/netc/toolskins/leaf_crossbow_3"
         },
         {
             "predicate": {
                 "custom_model_data": 6002,
                 "charged": 1
             },
-            "model": "item/toolskins/leaf_crossbow_arrow"
+            "model": "item/netc/toolskins/leaf_crossbow_arrow"
         },
         {
             "predicate": {
@@ -145,7 +145,7 @@
                 "charged": 1,
                 "firework": 1
             },
-            "model": "item/toolskins/leaf_crossbow_firework"
+            "model": "item/netc/toolskins/leaf_crossbow_firework"
         }
     ]
 }
