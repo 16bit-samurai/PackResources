@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "nw/block/fwater",
-		"2": "nw/block/f003",
-		"3": "nw/block/brushicon",
-		"particle": "nw/block/f003"
+		"2": "nw/bl/f003",
+		"3": "nw/bl/brushicon",
+		"particle": "nw/bl/f003"
 	},
 	"elements": [
 		{
