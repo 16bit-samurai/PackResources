@@ -2,6 +2,6 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "netc/tickets/ticket04"
+		"layer0": "netc/tickets/ticket_lyyfun"
 	}
 }
