@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "tool/t002",
-		"particle": "tool/t002"
+		"0": "nw/tool/t002",
+		"particle": "nw/tool/t002"
 	},
 	"elements": [
 		{

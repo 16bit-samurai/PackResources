@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "tool/t006_1",
-		"2": "tool/t006",
-		"particle": "tool/t006_1"
+		"1": "nw/tool/t006_1",
+		"2": "nw/tool/t006",
+		"particle": "nw/tool/t006_1"
 	},
 	"elements": [
 		{
