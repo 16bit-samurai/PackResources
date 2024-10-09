@@ -14,11 +14,6 @@
             "type": "directory",
             "source": "custom",
             "prefix": "custom/"
-        },
-        {
-            "type": "directory",
-            "source": "tool",
-            "prefix": "tool/"
         }
     ]
 }
