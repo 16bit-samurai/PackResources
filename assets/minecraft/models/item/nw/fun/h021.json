@@ -3,7 +3,7 @@
 	"textures": {
 		"1": "block/stripped_birch_log_top",
 		"2": "block/stripped_birch_log",
-		"3": "nw/block/f008",
+		"3": "block/white_wool",
 		"4": "block/birch_planks",
 		"particle": "block/birch_planks"
 	},
@@ -33,14 +33,14 @@
 			}
 		},
 		{
-			"from": [0, 3, 0],
+			"from": [0, 14, 0],
 			"to": [16, 16.025, 16.025],
 			"faces": {
-				"north": {"uv": [0, 4, 4, 7.25], "texture": "#3", "tintindex": 1},
-				"east": {"uv": [0, 4, 4, 7.25], "texture": "#3", "cullface": "east", "tintindex": 1},
-				"south": {"uv": [0, 4, 4, 7.25], "texture": "#3", "cullface": "east", "tintindex": 1},
-				"west": {"uv": [0, 4, 4, 7.25], "texture": "#3", "cullface": "east", "tintindex": 1},
-				"up": {"uv": [4, 4, 0, 0], "texture": "#3", "cullface": "east", "tintindex": 1}
+				"north": {"uv": [0, 0, 16, 2], "texture": "#3", "tintindex": 1},
+				"east": {"uv": [0, 0, 16, 2], "texture": "#3", "cullface": "east", "tintindex": 1},
+				"south": {"uv": [0, 0, 16, 2], "texture": "#3", "cullface": "east", "tintindex": 1},
+				"west": {"uv": [0, 0, 16, 2], "texture": "#3", "cullface": "east", "tintindex": 1},
+				"up": {"uv": [16, 16, 0, 0], "texture": "#3", "cullface": "east", "tintindex": 1}
 			}
 		},
 		{
