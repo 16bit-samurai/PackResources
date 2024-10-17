@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/warped_stem",
 		"1": "block/warped_stem_top",
-		"2": "block/polished_andesite",
+		"2": "block/polished_diorite",
 		"particle": "block/warped_stem"
 	},
 	"elements": [

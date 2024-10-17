@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/mangrove_log",
 		"1": "block/mangrove_log_top",
-		"2": "block/polished_andesite",
+		"2": "block/polished_diorite",
 		"particle": "block/mangrove_log"
 	},
 	"elements": [

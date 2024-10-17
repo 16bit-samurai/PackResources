@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "block/polished_andesite",
+		"2": "block/polished_diorite",
 		"4": "block/stripped_oak_log",
 		"particle": "block/oak_log"
 	},

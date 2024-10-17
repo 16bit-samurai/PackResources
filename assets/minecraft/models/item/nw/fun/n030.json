@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/crimson_stem",
 		"1": "block/crimson_stem_top",
-		"2": "block/polished_andesite",
+		"2": "block/polished_diorite",
 		"particle": "block/crimson_stem"
 	},
 	"elements": [

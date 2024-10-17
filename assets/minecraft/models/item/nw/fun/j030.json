@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/acacia_log",
 		"1": "block/acacia_log_top",
-		"2": "block/polished_andesite",
+		"2": "block/polished_diorite",
 		"particle": "block/acacia_log"
 	},
 	"elements": [

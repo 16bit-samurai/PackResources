@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/white_wool",
-		"1": "block/polished_diorate",
-		"2": "block/diorate",
+		"1": "block/polished_andesite",
+		"2": "block/andesite",
 		"particle": "block/white_wool"
 	},
 	"elements": [

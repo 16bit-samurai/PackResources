@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/cherry_log",
 		"1": "block/cherry_log_top",
-		"2": "block/polished_andesite",
+		"2": "block/polished_diorite",
 		"particle": "block/cherry_log"
 	},
 	"elements": [
