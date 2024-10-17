@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "block/sandstone_bottom",
-		"5": "block/smooth_sandstone",
+		"5": "block/sandstone_top",
 		"particle": "block/sandstone_bottom"
 	},
 	"elements": [

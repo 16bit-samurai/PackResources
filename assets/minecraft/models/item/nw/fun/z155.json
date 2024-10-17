@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/white_wool",
-		"1": "block/polished_blackstone_bricks",
+		"1": "block/end_stone_bricks",
 		"2": "block/end_stone",
 		"particle": "block/white_wool"
 	},

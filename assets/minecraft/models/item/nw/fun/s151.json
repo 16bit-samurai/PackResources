@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/smooth_red_sandstone",
+		"0": "block/red_sandstone_top",
 		"3": "block/white_wool",
 		"particle": "block/red_sandstone_bottom"
 	},
