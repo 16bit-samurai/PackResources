@@ -11206,6 +11206,90 @@
         "custom_model_data": 100054
       },
       "model": "item/nw/af/af033d"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101001
+      },
+      "model": "item/nw/zhfun/zh001"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101002
+      },
+      "model": "item/nw/zhfun/zh001a"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101003
+      },
+      "model": "item/nw/zhfun/zh002"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101004
+      },
+      "model": "item/nw/zhfun/zh003"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101005
+      },
+      "model": "item/nw/zhfun/zh004"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101006
+      },
+      "model": "item/nw/zhfun/zh004a"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101007
+      },
+      "model": "item/nw/zhfun/zh005"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101008
+      },
+      "model": "item/nw/zhfun/zh006"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101009
+      },
+      "model": "item/nw/zhfun/zh007"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101010
+      },
+      "model": "item/nw/zhfun/zh008"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101011
+      },
+      "model": "item/nw/zhfun/zh009"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101012
+      },
+      "model": "item/nw/zhfun/zh010"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101013
+      },
+      "model": "item/nw/zhfun/zh011"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101014
+      },
+      "model": "item/nw/zhfun/zh012"
     }
   ]
 }
