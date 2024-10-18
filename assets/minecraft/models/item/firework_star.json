@@ -79,6 +79,18 @@
     },
     {
       "predicate": {
+        "custom_model_data": 6009
+      },
+      "model": "item/nw/bl/b007"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6010
+      },
+      "model": "item/nw/bl/b007a"
+    },
+    {
+      "predicate": {
         "custom_model_data": 7001
       },
       "model": "item/nw/friend/friendtree"
