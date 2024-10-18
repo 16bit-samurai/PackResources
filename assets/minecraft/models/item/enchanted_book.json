@@ -39,6 +39,12 @@
       "custom_model_data": 6
   },
   "model": "item/netc/tickets/ticket_nyaa_tea_pack"
+},
+{
+  "predicate": {
+      "custom_model_data": 7
+  },
+  "model": "item/netc/tickets/ticket_zh"
 }
 ]
 }

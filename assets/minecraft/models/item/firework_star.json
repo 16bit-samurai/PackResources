@@ -11289,6 +11289,12 @@
       "predicate": {
         "custom_model_data": 101014
       },
+      "model": "item/nw/zhfun/zh011a"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101015
+      },
       "model": "item/nw/zhfun/zh012"
     }
   ]
