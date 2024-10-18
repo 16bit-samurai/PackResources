@@ -40,6 +40,18 @@
             },
             "model": "item/netc/toolskins/leaf_sword"
         },
+        {
+            "predicate": {
+                "custom_model_data": 6003
+            },
+            "model": "item/netc/toolskins/bone_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6004
+            },
+            "model": "item/netc/toolskins/soul_sword"
+        },
 
 
         

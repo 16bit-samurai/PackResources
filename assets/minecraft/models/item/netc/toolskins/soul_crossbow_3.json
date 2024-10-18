@@ -1,0 +1,6 @@
+{
+    "parent": "item/crossbow",
+    "textures": {
+        "layer0": "netc/toolskins/soul_crossbow_3"
+    }
+}

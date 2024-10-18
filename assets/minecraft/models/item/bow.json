@@ -103,6 +103,64 @@
                 "pull": 0.9
             },
             "model": "item/netc/toolskins/leaf_bow_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6003
+            },
+            "model": "item/netc/toolskins/bone_bow_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6003,
+                "pulling": 1
+            },
+            "model": "item/netc/toolskins/bone_bow_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6003,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "item/netc/toolskins/bone_bow_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6003,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "item/netc/toolskins/bone_bow_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6004
+            },
+            "model": "item/netc/toolskins/soul_bow_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6004,
+                "pulling": 1
+            },
+            "model": "item/netc/toolskins/soul_bow_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6004,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "item/netc/toolskins/soul_bow_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6004,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "item/netc/toolskins/soul_bow_3"
         }
     ]
 }

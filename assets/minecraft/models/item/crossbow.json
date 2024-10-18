@@ -146,6 +146,94 @@
                 "firework": 1
             },
             "model": "item/netc/toolskins/leaf_crossbow_firework"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6003
+            },
+            "model": "item/netc/toolskins/bone_crossbow_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6003,
+                "pulling": 1
+            },
+            "model": "item/netc/toolskins/bone_crossbow_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6003,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/netc/toolskins/bone_crossbow_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6003,
+                "pulling": 1,
+                "pull": 1.0
+            },
+            "model": "item/netc/toolskins/bone_crossbow_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6003,
+                "charged": 1
+            },
+            "model": "item/netc/toolskins/bone_crossbow_arrow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6003,
+                "charged": 1,
+                "firework": 1
+            },
+            "model": "item/netc/toolskins/bone_crossbow_firework"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6004
+            },
+            "model": "item/netc/toolskins/soul_crossbow_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6004,
+                "pulling": 1
+            },
+            "model": "item/netc/toolskins/soul_crossbow_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6004,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/netc/toolskins/soul_crossbow_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6004,
+                "pulling": 1,
+                "pull": 1.0
+            },
+            "model": "item/netc/toolskins/soul_crossbow_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6004,
+                "charged": 1
+            },
+            "model": "item/netc/toolskins/soul_crossbow_arrow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6004,
+                "charged": 1,
+                "firework": 1
+            },
+            "model": "item/netc/toolskins/soul_crossbow_firework"
         }
     ]
 }

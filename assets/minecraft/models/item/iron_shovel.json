@@ -15,6 +15,18 @@
               "custom_model_data": 6002
           },
           "model": "item/netc/toolskins/leaf_shovel"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 6003
+          },
+          "model": "item/netc/toolskins/bone_shovel"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 6004
+          },
+          "model": "item/netc/toolskins/soul_shovel"
       }
   ]
 }
