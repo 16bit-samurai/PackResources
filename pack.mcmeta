@@ -1,6 +1,10 @@
 {
   "pack": {
     "pack_format": 34,
+    "supported_formats": [
+        34,
+        42
+    ],
     "description": [
       {
         "text": "喵窝/毛线",
@@ -13,6 +17,14 @@
       {
         "text": "\nr2.1.0 241003",
         "color": "gray"
+      }
+    ]    
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "overlay_1_21_3",
+        "formats": 42
       }
     ]
   }
