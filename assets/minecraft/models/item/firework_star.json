@@ -11308,6 +11308,25 @@
         "custom_model_data": 101015
       },
       "model": "item/nw/zhfun/zh012"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101100
+      },
+      "model": "item/netc/firework_star/nyafac/golden_rubbish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101101
+      },
+      "model": "item/netc/firework_star/nyafac/nyaa_aqua"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101102
+      },
+      "model": "item/netc/firework_star/nyafac/guguge"
     }
+
   ]
 }

@@ -63,7 +63,13 @@
                 "custom_model_data": 5010
             },
             "model": "item/netc/magma_cream/buddha"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5011
+            },
+            "model": "item/netc/magma_cream/linker"
         }
-    
+
     ]
 }
