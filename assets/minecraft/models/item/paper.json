@@ -8,6 +8,12 @@
             "custom_model_data": 5001
         },
         "model": "item/netc/paper/mmzticket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5002
+      },
+      "model": "item/netc/paper/2025_redbag"
     }
 ]
 }
