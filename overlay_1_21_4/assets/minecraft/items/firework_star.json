@@ -20767,6 +20767,61 @@
             { "type": "firework", "default": -7697782 }
           ]
         }
+      },
+      {
+        "threshold": 110000,
+        "model": {
+          "type": "model",
+          "model": "item/nw/leaf_1/afc",
+          "tints": [
+            { "type": "constant", "value": -1 },
+            { "type": "firework", "default": -7697782 }
+          ]
+        }
+      },
+      {
+        "threshold": 110001,
+        "model": {
+          "type": "model",
+          "model": "item/nw/leaf_1/bigwater1",
+          "tints": [
+            { "type": "constant", "value": -1 },
+            { "type": "firework", "default": -7697782 }
+          ]
+        }
+      },
+      {
+        "threshold": 110002,
+        "model": {
+          "type": "model",
+          "model": "item/nw/leaf_1/bigwater2",
+          "tints": [
+            { "type": "constant", "value": -1 },
+            { "type": "firework", "default": -7697782 }
+          ]
+        }
+      },
+      {
+        "threshold": 110003,
+        "model": {
+          "type": "model",
+          "model": "item/nw/leaf_1/bigwater3",
+          "tints": [
+            { "type": "constant", "value": -1 },
+            { "type": "firework", "default": -7697782 }
+          ]
+        }
+      },
+      {
+        "threshold": 110004,
+        "model": {
+          "type": "model",
+          "model": "item/nw/leaf_1/bigwater4",
+          "tints": [
+            { "type": "constant", "value": -1 },
+            { "type": "firework", "default": -7697782 }
+          ]
+        }
       }
     ]
   }

@@ -11326,7 +11326,36 @@
         "custom_model_data": 101102
       },
       "model": "item/netc/firework_star/nyafac/guguge"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110000
+      },
+      "model": "item/nw/leaf_1/afc"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110001
+      },
+      "model": "item/nw/leaf_1/bigwater1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110002
+      },
+      "model": "item/nw/leaf_1/bigwater2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110003
+      },
+      "model": "item/nw/leaf_1/bigwater3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110004
+      },
+      "model": "item/nw/leaf_1/bigwater4"
     }
-
   ]
 }
