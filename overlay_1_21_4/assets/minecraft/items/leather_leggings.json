@@ -1,0 +1,33 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/leather_leggings"
+        },
+        "entries": [
+            {
+                "threshold": 5001,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/armor/manleg"
+                }
+            },
+            {
+                "threshold": 5002,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/armor/catleg"
+                }
+            },
+            {
+                "threshold": 5003,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/armor/samuraileg"
+                }
+            }
+        ]
+    }
+}

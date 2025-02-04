@@ -1,0 +1,299 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/iron_nugget"
+        },
+        "entries": [
+            {
+                "threshold": 110000,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110001,
+                "model": {
+                    "type": "model",
+                    "model": "custom/consume/potion_of_healing"
+                }
+            },
+            {
+                "threshold": 110002,
+                "model": {
+                    "type": "model",
+                    "model": "custom/consume/potion_of_mana"
+                }
+            },
+            {
+                "threshold": 110003,
+                "model": {
+                    "type": "model",
+                    "model": "custom/consume/potion_of_hare"
+                }
+            },
+            {
+                "threshold": 110004,
+                "model": {
+                    "type": "model",
+                    "model": "custom/consume/potion_of_ironskin"
+                }
+            },
+            {
+                "threshold": 110005,
+                "model": {
+                    "type": "model",
+                    "model": "custom/consume/potion_of_fire_resistance"
+                }
+            },
+            {
+                "threshold": 110006,
+                "model": {
+                    "type": "model",
+                    "model": "custom/consume/potion_of_invisibility"
+                }
+            },
+            {
+                "threshold": 110007,
+                "model": {
+                    "type": "model",
+                    "model": "custom/consume/potion_of_lifeforce"
+                }
+            },
+            {
+                "threshold": 110008,
+                "model": {
+                    "type": "model",
+                    "model": "custom/consume/potion_of_feather_falling"
+                }
+            },
+            {
+                "threshold": 110009,
+                "model": {
+                    "type": "model",
+                    "model": "custom/consume/potion_of_deepsea"
+                }
+            },
+            {
+                "threshold": 110010,
+                "model": {
+                    "type": "model",
+                    "model": "custom/consume/transform_chroma_1"
+                }
+            },
+            {
+                "threshold": 110011,
+                "model": {
+                    "type": "model",
+                    "model": "custom/consume/transform_chroma_2"
+                }
+            },
+            {
+                "threshold": 110012,
+                "model": {
+                    "type": "model",
+                    "model": "custom/consume/socket_gem_1"
+                }
+            },
+            {
+                "threshold": 110013,
+                "model": {
+                    "type": "model",
+                    "model": "custom/consume/socket_gem_wind"
+                }
+            },
+            {
+                "threshold": 110014,
+                "model": {
+                    "type": "model",
+                    "model": "custom/consume/socket_gem_fire"
+                }
+            },
+            {
+                "threshold": 110015,
+                "model": {
+                    "type": "model",
+                    "model": "custom/consume/socket_gem_ice"
+                }
+            },
+            {
+                "threshold": 110016,
+                "model": {
+                    "type": "model",
+                    "model": "custom/consume/socket_gem_lightning"
+                }
+            },
+            {
+                "threshold": 110017,
+                "model": {
+                    "type": "model",
+                    "model": "custom/consume/socket_gem_venom"
+                }
+            },
+            {
+                "threshold": 110018,
+                "model": {
+                    "type": "model",
+                    "model": "custom/consume/socket_gem_light"
+                }
+            },
+            {
+                "threshold": 110019,
+                "model": {
+                    "type": "model",
+                    "model": "custom/consume/socket_gem_dark"
+                }
+            },
+            {
+                "threshold": 110020,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110021,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110022,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110023,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110024,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110025,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110026,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110027,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110028,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110029,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110030,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110031,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110032,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110033,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110034,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110035,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110036,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110037,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110038,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110039,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110040,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            }
+        ]
+    }
+}

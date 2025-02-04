@@ -3,7 +3,7 @@
     "pack_format": 34,
     "supported_formats": [
         34,
-        42
+        46
     ],
     "description": [
       {
@@ -25,6 +25,10 @@
       {
         "directory": "overlay_1_21_3",
         "formats": 42
+      },
+      {
+        "directory": "overlay_1_21_4",
+        "formats": 46
       }
     ]
   }

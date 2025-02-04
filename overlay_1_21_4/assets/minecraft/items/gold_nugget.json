@@ -1,0 +1,229 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/gold_nugget"
+        },
+        "entries": [
+            {
+                "threshold": 110000,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110001,
+                "model": {
+                    "type": "model",
+                    "model": "custom/special/equipment_box_gold"
+                }
+            },
+            {
+                "threshold": 110002,
+                "model": {
+                    "type": "model",
+                    "model": "custom/special/equipment_box_blue"
+                }
+            },
+            {
+                "threshold": 110003,
+                "model": {
+                    "type": "model",
+                    "model": "custom/special/equipment_box_green"
+                }
+            },
+            {
+                "threshold": 110004,
+                "model": {
+                    "type": "model",
+                    "model": "custom/special/equipment_box_white"
+                }
+            },
+            {
+                "threshold": 110005,
+                "model": {
+                    "type": "model",
+                    "model": "custom/special/equipment_box_gray"
+                }
+            },
+            {
+                "threshold": 110006,
+                "model": {
+                    "type": "model",
+                    "model": "custom/special/equipment_box_black"
+                }
+            },
+            {
+                "threshold": 110007,
+                "model": {
+                    "type": "model",
+                    "model": "custom/special/equipment_box_red"
+                }
+            },
+            {
+                "threshold": 110008,
+                "model": {
+                    "type": "model",
+                    "model": "custom/special/equipment_box_pink"
+                }
+            },
+            {
+                "threshold": 110009,
+                "model": {
+                    "type": "model",
+                    "model": "custom/special/equipment_box_purple"
+                }
+            },
+            {
+                "threshold": 110010,
+                "model": {
+                    "type": "model",
+                    "model": "custom/special/mark_of_glory"
+                }
+            },
+            {
+                "threshold": 110011,
+                "model": {
+                    "type": "model",
+                    "model": "custom/special/coin_cube_1"
+                }
+            },
+            {
+                "threshold": 110012,
+                "model": {
+                    "type": "model",
+                    "model": "custom/special/coin_cube_2"
+                }
+            },
+            {
+                "threshold": 110013,
+                "model": {
+                    "type": "model",
+                    "model": "custom/special/coin_cube_4"
+                }
+            },
+            {
+                "threshold": 110014,
+                "model": {
+                    "type": "model",
+                    "model": "custom/special/fragment_of_memory"
+                }
+            },
+            {
+                "threshold": 110015,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110016,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110017,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110018,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110019,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110020,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110021,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110022,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110023,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110024,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110025,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110026,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110027,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110028,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110029,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110030,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/gold_nugget/orange"
+                }
+            }
+        ]
+    }
+}

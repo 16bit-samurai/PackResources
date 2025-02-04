@@ -1,0 +1,528 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/feather"
+        },
+        "entries": [
+            {
+                "threshold": 110000,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110001,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/band_of_regeneration"
+                }
+            },
+            {
+                "threshold": 110002,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/blood_bead"
+                }
+            },
+            {
+                "threshold": 110003,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/foulblood_barrier"
+                }
+            },
+            {
+                "threshold": 110004,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/cursed_heart"
+                }
+            },
+            {
+                "threshold": 110005,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/charm_of_myths"
+                }
+            },
+            {
+                "threshold": 110006,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/obsidian_shield"
+                }
+            },
+            {
+                "threshold": 110007,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/iron_will"
+                }
+            },
+            {
+                "threshold": 110008,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/bracelet_of_braveness"
+                }
+            },
+            {
+                "threshold": 110009,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/spirit_of_greatheart"
+                }
+            },
+            {
+                "threshold": 110010,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/vitality_capsule"
+                }
+            },
+            {
+                "threshold": 110011,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/poorly_brewed_vodka"
+                }
+            },
+            {
+                "threshold": 110012,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/dew_in_a_jar"
+                }
+            },
+            {
+                "threshold": 110013,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/anklet_of_the_wind"
+                }
+            },
+            {
+                "threshold": 110014,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/robotic_skeleton"
+                }
+            },
+            {
+                "threshold": 110015,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/monster_energy_drink"
+                }
+            },
+            {
+                "threshold": 110016,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/shifting_hollow"
+                }
+            },
+            {
+                "threshold": 110017,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/misty_shadow"
+                }
+            },
+            {
+                "threshold": 110018,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/specter_cape"
+                }
+            },
+            {
+                "threshold": 110019,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/starry_cloak"
+                }
+            },
+            {
+                "threshold": 110020,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/warrior_emblem"
+                }
+            },
+            {
+                "threshold": 110021,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/broken_reaper"
+                }
+            },
+            {
+                "threshold": 110022,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/shattering_justice"
+                }
+            },
+            {
+                "threshold": 110023,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/flashing_fang"
+                }
+            },
+            {
+                "threshold": 110024,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/swift_destruction"
+                }
+            },
+            {
+                "threshold": 110025,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/blade_dance"
+                }
+            },
+            {
+                "threshold": 110026,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/delicate_lancet"
+                }
+            },
+            {
+                "threshold": 110027,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/giant_lotus"
+                }
+            },
+            {
+                "threshold": 110028,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/tungsten_shield"
+                }
+            },
+            {
+                "threshold": 110029,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/ice_barrier"
+                }
+            },
+            {
+                "threshold": 110030,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/insulation_circlet"
+                }
+            },
+            {
+                "threshold": 110031,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/inactivated_antibody"
+                }
+            },
+            {
+                "threshold": 110032,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/magical_chime"
+                }
+            },
+            {
+                "threshold": 110033,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/cinder_blossom"
+                }
+            },
+            {
+                "threshold": 110034,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/frost_crystal"
+                }
+            },
+            {
+                "threshold": 110035,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/thunder_glyph"
+                }
+            },
+            {
+                "threshold": 110036,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/venomous_fang"
+                }
+            },
+            {
+                "threshold": 110037,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/nature_blessing"
+                }
+            },
+            {
+                "threshold": 110038,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/dark_shout"
+                }
+            },
+            {
+                "threshold": 110039,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/ethereal_talisman"
+                }
+            },
+            {
+                "threshold": 110040,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/blood_awakening"
+                }
+            },
+            {
+                "threshold": 110041,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/cleansing_light"
+                }
+            },
+            {
+                "threshold": 110042,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/activated_ooze"
+                }
+            },
+            {
+                "threshold": 110043,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/rage_shield"
+                }
+            },
+            {
+                "threshold": 110044,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/thorn_amaryllis"
+                }
+            },
+            {
+                "threshold": 110045,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/crystal_nautilus"
+                }
+            },
+            {
+                "threshold": 110046,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/resurrection_butterfly"
+                }
+            },
+            {
+                "threshold": 110047,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/ablative_blood"
+                }
+            },
+            {
+                "threshold": 110048,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/solarflare_shield"
+                }
+            },
+            {
+                "threshold": 110049,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/prism_melody"
+                }
+            },
+            {
+                "threshold": 110050,
+                "model": {
+                    "type": "model",
+                    "model": "custom/equipment/bloody_blade"
+                }
+            },
+            {
+                "threshold": 110051,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110052,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110053,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110054,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110055,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110056,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110057,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110058,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110059,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110060,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110061,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110062,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110063,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110064,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110065,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110066,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110067,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110068,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110069,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110070,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            }
+        ]
+    },
+    "display": {
+        "head": {
+            "rotation": [
+                0,
+                0,
+                45
+            ],
+            "translation": [
+                -1,
+                13,
+                7
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        }
+    }
+}

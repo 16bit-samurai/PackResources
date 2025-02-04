@@ -1,0 +1,40 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/iron_pickaxe"
+        },
+        "entries": [
+            {
+                "threshold": 6001,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/toolskins/pink_crystal_pickaxe"
+                }
+            },
+            {
+                "threshold": 6002,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/toolskins/leaf_pickaxe"
+                }
+            },
+            {
+                "threshold": 6003,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/toolskins/bone_pickaxe"
+                }
+            },
+            {
+                "threshold": 6004,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/toolskins/soul_pickaxe"
+                }
+            }
+        ]
+    }
+}
