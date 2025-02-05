@@ -28,6 +28,9 @@ void main() {
     //float transmission = sign(abs(rgb.a - 253. / 255.));
     float emmisive = sign(abs(rgb.a - 254. / 255.));
 
+    float emmisive_2 = sign(abs(rgb.a - 252. / 255.));
+    if (emmisive_2 = 0.0) emmisive = emmisive_2;
+
     //rgb.a = mix(1., mix(.7, rgb.a, transmission), emmisive);
     //rgb.a = mix(.7, rgb.a, e_transmission);
     rgb.a = mix(1., rgb.a, emmisive);
