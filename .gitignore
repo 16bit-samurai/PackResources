@@ -3,4 +3,5 @@
 !.gitattributes
 !.gitignore
 !.github
-
+/models_to_add/
+/new_pack_cmd.csv
