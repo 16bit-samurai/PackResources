@@ -85,7 +85,7 @@ for file_name in json_file_list:
     model_name = 'item/nw/' + pack_name + '/' + str.rstrip(file_name,'.json')
     list.append(old_cmd_json['overrides'],{"predicate":{"custom_model_data":current_cmd},"model": model_name})
     list.append(new_cmd_json['model']['entries'],{"threshold": current_cmd,"model": {"type": "model","model": model_name,"tints": [{ "type": "constant", "value": -1 },{ "type": "firework", "default": -7697782 }]}})
-    list.append(cmd_rows, [model_name,current_cmd])
+    list.append(cmd_rows, [pack_name + '/' + str.rstrip(file_name,'.json'),current_cmd])
     current_cmd += 1
 
 #save cmd files
