@@ -11356,6 +11356,792 @@
         "custom_model_data": 110004
       },
       "model": "item/nw/leaf_1/bigwater4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110005
+      },
+      "model": "item/nw/leaf_1/cardmaker"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110006
+      },
+      "model": "item/nw/leaf_1/cash_register"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110007
+      },
+      "model": "item/nw/leaf_1/cash_register2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110008
+      },
+      "model": "item/nw/leaf_1/chunithm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110009
+      },
+      "model": "item/nw/leaf_1/glove"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110010
+      },
+      "model": "item/nw/leaf_1/laptop"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110011
+      },
+      "model": "item/nw/leaf_1/laptop2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110012
+      },
+      "model": "item/nw/leaf_1/m18a1_chaotianjiang"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110013
+      },
+      "model": "item/nw/leaf_1/m18a1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110014
+      },
+      "model": "item/nw/leaf_1/macintosh"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110015
+      },
+      "model": "item/nw/leaf_1/maimaiadx"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110016
+      },
+      "model": "item/nw/leaf_1/maimaidx"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110017
+      },
+      "model": "item/nw/leaf_1/ongeki"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110018
+      },
+      "model": "item/nw/leaf_1/ps5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110019
+      },
+      "model": "item/nw/leaf_1/switch"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110020
+      },
+      "model": "item/nw/leaf_1/switch2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110021
+      },
+      "model": "item/nw/leaf_1/taiko_no_tatsujin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110022
+      },
+      "model": "item/nw/leaf_1/turnstile_2_off"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110023
+      },
+      "model": "item/nw/leaf_1/turnstile_2_on"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110024
+      },
+      "model": "item/nw/leaf_1/turnstile"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110025
+      },
+      "model": "item/nw/leaf_1/xbox"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 120001
+      },
+      "model": "item/nw/leaf_2/bakery_off"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 120002
+      },
+      "model": "item/nw/leaf_2/bakery_on"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 120003
+      },
+      "model": "item/nw/leaf_2/dehumidifiers"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 120004
+      },
+      "model": "item/nw/leaf_2/dust_catcher"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 120005
+      },
+      "model": "item/nw/leaf_2/kettle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 120006
+      },
+      "model": "item/nw/leaf_2/microwave_off"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 120007
+      },
+      "model": "item/nw/leaf_2/microwave_on"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 120008
+      },
+      "model": "item/nw/leaf_2/rice_cooker"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130001
+      },
+      "model": "item/nw/chess/chess_black_bishop_basalt_side"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130002
+      },
+      "model": "item/nw/chess/chess_black_bishop_dark_oak_planks"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130003
+      },
+      "model": "item/nw/chess/chess_black_bishop_gilded_blackstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130004
+      },
+      "model": "item/nw/chess/chess_black_bishop_gold_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130005
+      },
+      "model": "item/nw/chess/chess_black_bishop_netherite_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130006
+      },
+      "model": "item/nw/chess/chess_black_king_basalt_side"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130007
+      },
+      "model": "item/nw/chess/chess_black_king_dark_oak_planks"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130008
+      },
+      "model": "item/nw/chess/chess_black_king_gilded_blackstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130009
+      },
+      "model": "item/nw/chess/chess_black_king_gold_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130010
+      },
+      "model": "item/nw/chess/chess_black_king_netherite_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130011
+      },
+      "model": "item/nw/chess/chess_black_knight_basalt_side"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130012
+      },
+      "model": "item/nw/chess/chess_black_knight_dark_oak_planks"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130013
+      },
+      "model": "item/nw/chess/chess_black_knight_gilded_blackstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130014
+      },
+      "model": "item/nw/chess/chess_black_knight_gold_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130015
+      },
+      "model": "item/nw/chess/chess_black_knight_netherite_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130016
+      },
+      "model": "item/nw/chess/chess_black_pawn_basalt_side"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130017
+      },
+      "model": "item/nw/chess/chess_black_pawn_dark_oak_planks"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130018
+      },
+      "model": "item/nw/chess/chess_black_pawn_gilded_blackstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130019
+      },
+      "model": "item/nw/chess/chess_black_pawn_gold_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130020
+      },
+      "model": "item/nw/chess/chess_black_pawn_netherite_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130021
+      },
+      "model": "item/nw/chess/chess_black_queen_basalt_side"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130022
+      },
+      "model": "item/nw/chess/chess_black_queen_dark_oak_planks"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130023
+      },
+      "model": "item/nw/chess/chess_black_queen_gilded_blackstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130024
+      },
+      "model": "item/nw/chess/chess_black_queen_gold_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130025
+      },
+      "model": "item/nw/chess/chess_black_queen_netherite_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130026
+      },
+      "model": "item/nw/chess/chess_black_rook_basalt_side"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130027
+      },
+      "model": "item/nw/chess/chess_black_rook_dark_oak_planks"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130028
+      },
+      "model": "item/nw/chess/chess_black_rook_gilded_blackstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130029
+      },
+      "model": "item/nw/chess/chess_black_rook_gold_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130030
+      },
+      "model": "item/nw/chess/chess_black_rook_netherite_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130031
+      },
+      "model": "item/nw/chess/chess_white_bishop_diorite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130032
+      },
+      "model": "item/nw/chess/chess_white_bishop_iron_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130033
+      },
+      "model": "item/nw/chess/chess_white_bishop_lodestone_top"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130034
+      },
+      "model": "item/nw/chess/chess_white_bishop_quartz_block_bottom"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130035
+      },
+      "model": "item/nw/chess/chess_white_bishop_smooth_sandstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130036
+      },
+      "model": "item/nw/chess/chess_white_king_diorite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130037
+      },
+      "model": "item/nw/chess/chess_white_king_iron_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130038
+      },
+      "model": "item/nw/chess/chess_white_king_lodestone_top"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130039
+      },
+      "model": "item/nw/chess/chess_white_king_quartz_block_bottom"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130040
+      },
+      "model": "item/nw/chess/chess_white_king_smooth_sandstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130041
+      },
+      "model": "item/nw/chess/chess_white_knight_diorite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130042
+      },
+      "model": "item/nw/chess/chess_white_knight_iron_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130043
+      },
+      "model": "item/nw/chess/chess_white_knight_lodestone_top"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130044
+      },
+      "model": "item/nw/chess/chess_white_knight_quartz_block_bottom"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130045
+      },
+      "model": "item/nw/chess/chess_white_knight_smooth_sandstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130046
+      },
+      "model": "item/nw/chess/chess_white_pawn_diorite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130047
+      },
+      "model": "item/nw/chess/chess_white_pawn_iron_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130048
+      },
+      "model": "item/nw/chess/chess_white_pawn_lodestone_top"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130049
+      },
+      "model": "item/nw/chess/chess_white_pawn_quartz_block_bottom"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130050
+      },
+      "model": "item/nw/chess/chess_white_pawn_smooth_sandstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130051
+      },
+      "model": "item/nw/chess/chess_white_queen_diorite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130052
+      },
+      "model": "item/nw/chess/chess_white_queen_iron_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130053
+      },
+      "model": "item/nw/chess/chess_white_queen_lodestone_top"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130054
+      },
+      "model": "item/nw/chess/chess_white_queen_quartz_block_bottom"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130055
+      },
+      "model": "item/nw/chess/chess_white_queen_smooth_sandstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130056
+      },
+      "model": "item/nw/chess/chess_white_rook_diorite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130057
+      },
+      "model": "item/nw/chess/chess_white_rook_iron_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130058
+      },
+      "model": "item/nw/chess/chess_white_rook_lodestone_top"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130059
+      },
+      "model": "item/nw/chess/chess_white_rook_quartz_block_bottom"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130060
+      },
+      "model": "item/nw/chess/chess_white_rook_smooth_sandstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 140001
+      },
+      "model": "item/nw/table_game/flight_chess_box"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 140002
+      },
+      "model": "item/nw/table_game/flight_chess_logo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 140003
+      },
+      "model": "item/nw/table_game/rotary"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 140004
+      },
+      "model": "item/nw/table_game/flight_chess_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 140005
+      },
+      "model": "item/nw/table_game/flight_chess_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 140006
+      },
+      "model": "item/nw/table_game/flight_chess_red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 140007
+      },
+      "model": "item/nw/table_game/flight_chess_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150001
+      },
+      "model": "item/nw/leaf_3/1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150002
+      },
+      "model": "item/nw/leaf_3/2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150003
+      },
+      "model": "item/nw/leaf_3/3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150004
+      },
+      "model": "item/nw/leaf_3/4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150005
+      },
+      "model": "item/nw/leaf_3/5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150006
+      },
+      "model": "item/nw/leaf_3/6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150007
+      },
+      "model": "item/nw/leaf_3/7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150008
+      },
+      "model": "item/nw/leaf_3/8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150009
+      },
+      "model": "item/nw/leaf_3/9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150010
+      },
+      "model": "item/nw/leaf_3/a"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150011
+      },
+      "model": "item/nw/leaf_3/b"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150012
+      },
+      "model": "item/nw/leaf_3/c"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150013
+      },
+      "model": "item/nw/leaf_3/d"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150014
+      },
+      "model": "item/nw/leaf_3/e"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150015
+      },
+      "model": "item/nw/leaf_3/f"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150016
+      },
+      "model": "item/nw/leaf_3/g"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150017
+      },
+      "model": "item/nw/leaf_3/h"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150018
+      },
+      "model": "item/nw/leaf_3/i"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150019
+      },
+      "model": "item/nw/leaf_3/j"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150020
+      },
+      "model": "item/nw/leaf_3/k"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150021
+      },
+      "model": "item/nw/leaf_3/l"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150022
+      },
+      "model": "item/nw/leaf_3/m"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150023
+      },
+      "model": "item/nw/leaf_3/n"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150024
+      },
+      "model": "item/nw/leaf_3/o"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150025
+      },
+      "model": "item/nw/leaf_3/p"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150026
+      },
+      "model": "item/nw/leaf_3/q"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150027
+      },
+      "model": "item/nw/leaf_3/r"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150028
+      },
+      "model": "item/nw/leaf_3/s"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150029
+      },
+      "model": "item/nw/leaf_3/t"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150030
+      },
+      "model": "item/nw/leaf_3/u"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150031
+      },
+      "model": "item/nw/leaf_3/v"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150032
+      },
+      "model": "item/nw/leaf_3/w"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150033
+      },
+      "model": "item/nw/leaf_3/x"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150034
+      },
+      "model": "item/nw/leaf_3/y"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150035
+      },
+      "model": "item/nw/leaf_3/z"
     }
   ]
 }
