@@ -11485,6 +11485,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 110026
+      },
+      "model": "item/nw/leaf_1/bigwater_hand"
+    },
+    {
+      "predicate": {
         "custom_model_data": 120001
       },
       "model": "item/nw/leaf_2/bakery_off"

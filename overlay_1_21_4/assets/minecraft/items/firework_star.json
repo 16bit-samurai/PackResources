@@ -32372,6 +32372,17 @@
         }
       },
       {
+        "threshold": 110025,
+        "model": {
+          "type": "model",
+          "model": "item/nw/leaf_1/bigwater_hand",
+          "tints": [
+            { "type": "constant", "value": -1 },
+            { "type": "firework", "default": -7697782 }
+          ]
+        }
+      },
+      {
         "threshold": 120001,
         "model": {
           "type": "model",
