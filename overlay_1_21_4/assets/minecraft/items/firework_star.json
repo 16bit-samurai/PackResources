@@ -33607,7 +33607,7 @@
         "threshold": 150039,
         "model": {
           "type": "model",
-          "model": "item/nw/livehorse/sakiko_o^o",
+          "model": "item/nw/livehorse/sakiko_oao",
           "tints": [
             { "type": "constant", "value": -1 },
             { "type": "firework", "default": -7697782 }
