@@ -15029,6 +15029,499 @@
         }
       },
       {
+        "threshold": 10867,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za142",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10868,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za143",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10869,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za144",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10870,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za145",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10871,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za146",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10872,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za147",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10873,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za148",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10874,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za149",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10875,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za150",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10876,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za151",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10877,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za152",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10878,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za153",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10879,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za154",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10880,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za155",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10881,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za156",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10882,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za157",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10883,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za158",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10884,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za159",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10885,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za160",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10886,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za161",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10887,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za162",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10888,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za163",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10889,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za164",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10890,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za165",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10891,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za166",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10892,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za167",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10893,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za168",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10894,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za169",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 10895,
+        "model": {
+          "type": "model",
+          "model": "item/nw/fun/za170",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
         "threshold": 11001,
         "model": {
           "type": "model",
