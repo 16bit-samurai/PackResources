@@ -35495,28 +35495,6 @@
             { "type": "firework", "default": -7697782 }
           ]
         }
-      },
-      {
-        "threshold": 150038,
-        "model": {
-          "type": "model",
-          "model": "item/nw/livehorse/sakiko_ovo",
-          "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
-          ]
-        }
-      },
-      {
-        "threshold": 150039,
-        "model": {
-          "type": "model",
-          "model": "item/nw/livehorse/sakiko_oao",
-          "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
-          ]
-        }
       }
     ]
   }
