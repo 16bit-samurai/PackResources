@@ -609,6 +609,11 @@
 		"head": {
 			"rotation": [22.5, 0, 0],
 			"translation": [0, 16.75, -2.25]
+		},
+		"fixed": {
+			"rotation": [-67, 0, 0],
+			"translation": [1.75, -4.25, -26.75],
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [
