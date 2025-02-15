@@ -54,19 +54,19 @@
 },
 {
   "predicate": {
-      "custom_model_data": 8
+      "custom_model_data": 9
   },
   "model": "item/netc/tickets/ticket_chess"
 },
 {
   "predicate": {
-      "custom_model_data": 8
+      "custom_model_data": 10
   },
   "model": "item/netc/tickets/ticket_appliance"
 },
 {
   "predicate": {
-      "custom_model_data": 8
+      "custom_model_data": 11
   },
   "model": "item/netc/tickets/ticket_signs"
 }
