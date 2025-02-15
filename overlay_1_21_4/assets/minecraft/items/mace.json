@@ -1,0 +1,26 @@
+{
+  "model": {
+      "type": "range_dispatch",
+      "property": "custom_model_data",
+      "fallback": {
+          "type": "model",
+          "model": "minecraft:item/mace"
+      },
+      "entries": [
+          {
+              "threshold": 1,
+              "model": {
+                  "type": "model",
+                  "model": "item/netc/toolskins/mace_rinngoame"
+              }
+          },
+          {
+              "threshold": 2,
+              "model": {
+                  "type": "model",
+                  "model": "item/netc/toolskins/mace_xinnianzhongchui"
+              }
+          }
+      ]
+  }
+}
