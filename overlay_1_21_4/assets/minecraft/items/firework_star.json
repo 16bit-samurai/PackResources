@@ -35475,7 +35475,7 @@
         }
       },
       {
-        "threshold": 150036,
+        "threshold": 150035,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_3/y",
@@ -35486,7 +35486,7 @@
         }
       },
       {
-        "threshold": 150037,
+        "threshold": 150036,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_3/z",
