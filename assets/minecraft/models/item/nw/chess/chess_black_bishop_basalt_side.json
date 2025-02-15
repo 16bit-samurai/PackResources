@@ -1,8 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "block/basalt_side",
-		"particle": "block/dark_oak_planks"
+		"2": "block/basalt_side"
 	},
 	"elements": [
 		{

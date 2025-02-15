@@ -1,8 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/lodestone_top",
-		"particle": "block/quartz_block_bottom"
+		"0": "block/diorite"
 	},
 	"elements": [
 		{

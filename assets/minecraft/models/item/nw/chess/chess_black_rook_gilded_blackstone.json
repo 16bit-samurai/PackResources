@@ -1,8 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/gold_block",
-		"particle": "block/dark_oak_planks"
+		"0": "block/gilded_blackstone"
 	},
 	"elements": [
 		{
