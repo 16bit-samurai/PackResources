@@ -185,9 +185,9 @@
 			"translation": [0, 4.5, 0]
 		},
 		"gui": {
-			"rotation": [0, 114, 18],
-			"translation": [1.75, 5.75, 0],
-			"scale": [1.6, 1.6, 1.6]
+			"rotation": [30, 225, 0],
+			"translation": [0.75, 5.75, 0],
+			"scale": [1.37, 1.37, 1.37]
 		},
 		"fixed": {
 			"rotation": [90, 0, 180],

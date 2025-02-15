@@ -300,9 +300,9 @@
 			"scale": [0.51, 0.51, 0.51]
 		},
 		"gui": {
-			"rotation": [11, 152, -24],
-			"translation": [2, -3.5, 0],
-			"scale": [0.54, 0.54, 0.54]
+			"rotation": [30, 225, 0],
+			"translation": [-0.25, -2, 0],
+			"scale": [0.5, 0.5, 0.5]
 		},
 		"head": {
 			"translation": [0, 11, 0],

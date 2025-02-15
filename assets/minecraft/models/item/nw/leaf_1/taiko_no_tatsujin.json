@@ -504,9 +504,9 @@
 			"scale": [0.56, 0.56, 0.56]
 		},
 		"gui": {
-			"rotation": [0, 150, 15],
-			"translation": [0.5, 0, 0],
-			"scale": [0.32, 0.32, 0.32]
+			"rotation": [30, 225, 0],
+			"translation": [-0.5, 1.25, 0],
+			"scale": [0.37, 0.37, 0.37]
 		},
 		"head": {
 			"translation": [0, 28.75, 0]
