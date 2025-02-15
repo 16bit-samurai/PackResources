@@ -34001,7 +34001,7 @@
         }
       },
       {
-        "threshold": 110001,
+        "threshold": 110000,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_1/afc",
@@ -34012,7 +34012,7 @@
         }
       },
       {
-        "threshold": 110002,
+        "threshold": 110001,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_1/bigwater1",
@@ -34023,7 +34023,7 @@
         }
       },
       {
-        "threshold": 110003,
+        "threshold": 110002,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_1/bigwater2",
@@ -34034,7 +34034,7 @@
         }
       },
       {
-        "threshold": 110004,
+        "threshold": 110003,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_1/bigwater3",
@@ -34045,7 +34045,7 @@
         }
       },
       {
-        "threshold": 110005,
+        "threshold": 110004,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_1/bigwater4",
@@ -34056,7 +34056,7 @@
         }
       },
       {
-        "threshold": 110006,
+        "threshold": 110005,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_1/cardmaker",
@@ -34067,7 +34067,7 @@
         }
       },
       {
-        "threshold": 110007,
+        "threshold": 110006,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_1/cash_register",
@@ -34078,7 +34078,7 @@
         }
       },
       {
-        "threshold": 110008,
+        "threshold": 110007,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_1/cash_register2",
@@ -34089,7 +34089,7 @@
         }
       },
       {
-        "threshold": 110009,
+        "threshold": 110008,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_1/chunithm",
@@ -34100,7 +34100,7 @@
         }
       },
       {
-        "threshold": 110010,
+        "threshold": 110009,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_1/glove",
@@ -34111,7 +34111,7 @@
         }
       },
       {
-        "threshold": 110011,
+        "threshold": 110010,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_1/laptop",
@@ -34122,7 +34122,7 @@
         }
       },
       {
-        "threshold": 110012,
+        "threshold": 110011,
         "model": {
           "type": "model",
           "model": "iitem/nw/leaf_1/laptop2",
@@ -34133,7 +34133,7 @@
         }
       },
       {
-        "threshold": 110013,
+        "threshold": 110012,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_1/m18a1_chaotianjiang",
@@ -34144,7 +34144,7 @@
         }
       },
       {
-        "threshold": 110014,
+        "threshold": 110013,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_1/m18a1",
@@ -34155,7 +34155,7 @@
         }
       },
       {
-        "threshold": 110015,
+        "threshold": 110014,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_1/macintosh",
@@ -34166,7 +34166,7 @@
         }
       },
       {
-        "threshold": 110016,
+        "threshold": 110015,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_1/maimaiadx",
@@ -34177,7 +34177,7 @@
         }
       },
       {
-        "threshold": 110017,
+        "threshold": 110016,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_1/maimaidx",
@@ -34188,7 +34188,7 @@
         }
       },
       {
-        "threshold": 110018,
+        "threshold": 110017,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_1/ongeki",
@@ -34199,7 +34199,7 @@
         }
       },
       {
-        "threshold": 110019,
+        "threshold": 110018,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_1/ps5",
@@ -34210,7 +34210,7 @@
         }
       },
       {
-        "threshold": 110020,
+        "threshold": 110019,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_1/switch",
@@ -34221,7 +34221,7 @@
         }
       },
       {
-        "threshold": 110021,
+        "threshold": 110020,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_1/switch2",
@@ -34232,10 +34232,21 @@
         }
       },
       {
-        "threshold": 110022,
+        "threshold": 110021,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_1/taiko_no_tatsujin",
+          "tints": [
+            { "type": "constant", "value": -1 },
+            { "type": "firework", "default": -7697782 }
+          ]
+        }
+      },
+      {
+        "threshold": 110022,
+        "model": {
+          "type": "model",
+          "model": "item/nw/leaf_1/turnstile_2_off",
           "tints": [
             { "type": "constant", "value": -1 },
             { "type": "firework", "default": -7697782 }
