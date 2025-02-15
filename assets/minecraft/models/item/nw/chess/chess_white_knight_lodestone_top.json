@@ -149,6 +149,12 @@
 			}
 		}
 	],
+	"display": {
+		"gui": {
+			"rotation": [30, 43, 0],
+			"scale": [0.625, 0.625, 0.625]
+		}
+	},
 	"groups": [
 		{
 			"name": "knight",
