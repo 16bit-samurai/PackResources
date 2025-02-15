@@ -34364,6 +34364,17 @@
         }
       },
       {
+        "threshold": 120007,
+        "model": {
+          "type": "model",
+          "model": "item/nw/leaf_2/microwave_on",
+          "tints": [
+            { "type": "constant", "value": -1 },
+            { "type": "firework", "default": -7697782 }
+          ]
+        }
+      },
+      {
         "threshold": 120008,
         "model": {
           "type": "model",
