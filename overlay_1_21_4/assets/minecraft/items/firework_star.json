@@ -35517,6 +35517,50 @@
             { "type": "firework", "default": -7697782 }
           ]
         }
+      },
+      {
+        "threshold": 150037,
+        "model": {
+          "type": "model",
+          "model": "netc/tickets/ticket_chess",
+          "tints": [
+            { "type": "constant", "value": -1 },
+            { "type": "firework", "default": -7697782 }
+          ]
+        }
+      },
+      {
+        "threshold": 150038,
+        "model": {
+          "type": "model",
+          "model": "netc/tickets/ticket_signs",
+          "tints": [
+            { "type": "constant", "value": -1 },
+            { "type": "firework", "default": -7697782 }
+          ]
+        }
+      },
+      {
+        "threshold": 150039,
+        "model": {
+          "type": "model",
+          "model": "netc/tickets/ticket_appliance",
+          "tints": [
+            { "type": "constant", "value": -1 },
+            { "type": "firework", "default": -7697782 }
+          ]
+        }
+      },
+      {
+        "threshold": 150040,
+        "model": {
+          "type": "model",
+          "model": "netc/tickets/ticket_yinyou",
+          "tints": [
+            { "type": "constant", "value": -1 },
+            { "type": "firework", "default": -7697782 }
+          ]
+        }
       }
     ]
   }
