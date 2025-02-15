@@ -34125,7 +34125,7 @@
         "threshold": 110011,
         "model": {
           "type": "model",
-          "model": "iitem/nw/leaf_1/laptop2",
+          "model": "item/nw/leaf_1/laptop2",
           "tints": [
             { "type": "constant", "value": -1 },
             { "type": "firework", "default": -7697782 }
