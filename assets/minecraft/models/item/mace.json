@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/handheld_mace",
+  "textures": {
+    "layer0": "minecraft:item/mace"
+  },
+  "overrides": [
+      {
+          "predicate": {
+              "custom_model_data": 1
+          },
+          "model": "item/netc/toolskins/mace_rinngoame"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 2
+        },
+        "model": "item/netc/toolskins/mace_xinnianzhongchui"
+    }
+  ]
+}

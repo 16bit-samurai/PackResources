@@ -55,6 +55,34 @@
                     "type": "model",
                     "model": "item/netc/tickets/ticket_zh"
                 }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/tickets/ticket_yinyou"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/tickets/ticket_chess"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/tickets/ticket_appliance"
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/tickets/ticket_signs"
+                }
             }
         ]
     }

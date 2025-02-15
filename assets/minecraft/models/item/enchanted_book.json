@@ -45,6 +45,30 @@
       "custom_model_data": 7
   },
   "model": "item/netc/tickets/ticket_zh"
+},
+{
+  "predicate": {
+      "custom_model_data": 8
+  },
+  "model": "item/netc/tickets/ticket_yinyou"
+},
+{
+  "predicate": {
+      "custom_model_data": 9
+  },
+  "model": "item/netc/tickets/ticket_chess"
+},
+{
+  "predicate": {
+      "custom_model_data": 10
+  },
+  "model": "item/netc/tickets/ticket_appliance"
+},
+{
+  "predicate": {
+      "custom_model_data": 11
+  },
+  "model": "item/netc/tickets/ticket_signs"
 }
 ]
 }
