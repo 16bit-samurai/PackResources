@@ -8,13 +8,13 @@
           "predicate": {
               "custom_model_data": 1
           },
-          "model": "netc/toolskins/mace_xinnianzhongchui"
+          "model": "item/netc/toolskins/mace_rinngoame"
       },
       {
         "predicate": {
             "custom_model_data": 2
         },
-        "model": "netc/toolskins/mace_rinngoame"
+        "model": "item/netc/toolskins/mace_xinnianzhongchui"
     }
   ]
 }
