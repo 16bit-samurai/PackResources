@@ -22,7 +22,7 @@
                 }
             },
             {
-                "threshold": 5002,
+                "threshold": 5003,
                 "model": {
                     "type": "model",
                     "model": "item/netc/card/card"
