@@ -12154,6 +12154,12 @@
         "custom_model_data": 150036
       },
       "model": "item/nw/leaf_3/z"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 151000
+      },
+      "model": "item/netc/event/orange"
     }
   ]
 }

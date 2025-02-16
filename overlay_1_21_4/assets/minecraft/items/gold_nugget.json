@@ -221,7 +221,7 @@
                 "threshold": 110030,
                 "model": {
                     "type": "model",
-                    "model": "item/netc/gold_nugget/orange"
+                    "model": "item/netc/event/orange"
                 }
             }
         ]
