@@ -14,6 +14,12 @@
         "custom_model_data": 5002
       },
       "model": "item/netc/paper/2025_redbag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5003
+      },
+      "model": "item/netc/card/card"
     }
 ]
 }

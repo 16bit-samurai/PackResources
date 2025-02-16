@@ -602,13 +602,18 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
-			"rotation": [0, 150, 15],
-			"translation": [-0.5, -1.75, 0],
+			"rotation": [-10, -142, -21],
+			"translation": [0.25, -1.75, 0],
 			"scale": [0.36, 0.36, 0.36]
 		},
 		"head": {
 			"rotation": [22.5, 0, 0],
 			"translation": [0, 16.75, -2.25]
+		},
+		"fixed": {
+			"rotation": [-67, 0, 0],
+			"translation": [1.75, -4.25, -26.75],
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [

@@ -34125,7 +34125,7 @@
         "threshold": 110011,
         "model": {
           "type": "model",
-          "model": "iitem/nw/leaf_1/laptop2",
+          "model": "item/nw/leaf_1/laptop2",
           "tints": [
             { "type": "constant", "value": -1 },
             { "type": "firework", "default": -7697782 }
@@ -34246,7 +34246,7 @@
         "threshold": 110022,
         "model": {
           "type": "model",
-          "model": "item/nw/leaf_1/turnstile_2_on",
+          "model": "item/nw/leaf_1/turnstile_2_off",
           "tints": [
             { "type": "constant", "value": -1 },
             { "type": "firework", "default": -7697782 }
@@ -34257,7 +34257,7 @@
         "threshold": 110023,
         "model": {
           "type": "model",
-          "model": "item/nw/leaf_1/turnstile",
+          "model": "item/nw/leaf_1/turnstile_2_on",
           "tints": [
             { "type": "constant", "value": -1 },
             { "type": "firework", "default": -7697782 }
@@ -34268,7 +34268,7 @@
         "threshold": 110024,
         "model": {
           "type": "model",
-          "model": "item/nw/leaf_1/xbox",
+          "model": "item/nw/leaf_1/turnstile",
           "tints": [
             { "type": "constant", "value": -1 },
             { "type": "firework", "default": -7697782 }
@@ -34277,6 +34277,17 @@
       },
       {
         "threshold": 110025,
+        "model": {
+          "type": "model",
+          "model": "item/nw/leaf_1/xbox",
+          "tints": [
+            { "type": "constant", "value": -1 },
+            { "type": "firework", "default": -7697782 }
+          ]
+        }
+      },
+      {
+        "threshold": 110026,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_1/bigwater_hand",
@@ -34346,6 +34357,17 @@
         "model": {
           "type": "model",
           "model": "item/nw/leaf_2/microwave_off",
+          "tints": [
+            { "type": "constant", "value": -1 },
+            { "type": "firework", "default": -7697782 }
+          ]
+        }
+      },
+      {
+        "threshold": 120007,
+        "model": {
+          "type": "model",
+          "model": "item/nw/leaf_2/microwave_on",
           "tints": [
             { "type": "constant", "value": -1 },
             { "type": "firework", "default": -7697782 }
@@ -35475,7 +35497,7 @@
         }
       },
       {
-        "threshold": 150036,
+        "threshold": 150035,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_3/y",
@@ -35486,7 +35508,7 @@
         }
       },
       {
-        "threshold": 150037,
+        "threshold": 150036,
         "model": {
           "type": "model",
           "model": "item/nw/leaf_3/z",
@@ -35497,21 +35519,10 @@
         }
       },
       {
-        "threshold": 150038,
+        "threshold": 151000,
         "model": {
           "type": "model",
-          "model": "item/nw/livehorse/sakiko_ovo",
-          "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
-          ]
-        }
-      },
-      {
-        "threshold": 150039,
-        "model": {
-          "type": "model",
-          "model": "item/nw/livehorse/sakiko_oao",
+          "model": "item/netc/event/orange",
           "tints": [
             { "type": "constant", "value": -1 },
             { "type": "firework", "default": -7697782 }

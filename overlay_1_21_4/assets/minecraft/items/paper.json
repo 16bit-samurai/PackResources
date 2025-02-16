@@ -20,6 +20,13 @@
                     "type": "model",
                     "model": "item/netc/paper/2025_redbag"
                 }
+            },
+            {
+                "threshold": 5003,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/card/card"
+                }
             }
         ]
     }
