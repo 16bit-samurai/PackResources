@@ -34,6 +34,6 @@
   {"predicate": {"custom_model_data":110027}, "model": "custom/missing"},
   {"predicate": {"custom_model_data":110028}, "model": "custom/missing"},
   {"predicate": {"custom_model_data":110029}, "model": "custom/missing"},
-  {"predicate": {"custom_model_data":110030}, "model": "item/netc/gold_nugget/orange"}
+  {"predicate": {"custom_model_data":110030}, "model": "item/netc/event/orange"}
   ]
 }

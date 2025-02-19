@@ -35517,6 +35517,17 @@
             { "type": "firework", "default": -7697782 }
           ]
         }
+      },
+      {
+        "threshold": 151000,
+        "model": {
+          "type": "model",
+          "model": "item/netc/event/orange",
+          "tints": [
+            { "type": "constant", "value": -1 },
+            { "type": "firework", "default": -7697782 }
+          ]
+        }
       }
     ]
   }
