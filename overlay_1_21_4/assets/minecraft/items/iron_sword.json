@@ -64,6 +64,13 @@
                 }
             },
             {
+                "threshold": 6005,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/toolskins/fantastic_sword"
+                }
+            },
+            {
                 "threshold": 110000,
                 "model": {
                     "type": "model",

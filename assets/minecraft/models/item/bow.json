@@ -161,6 +161,38 @@
                 "pull": 0.9
             },
             "model": "item/netc/toolskins/soul_bow_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6005,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "item/netc/toolskins/fantastic_bow_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6005,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "item/netc/toolskins/fantastic_bow_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6005,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "item/netc/toolskins/fantastic_bow_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6005,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "item/netc/toolskins/fantastic_bow_3"
         }
     ]
 }

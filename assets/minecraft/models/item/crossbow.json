@@ -234,6 +234,54 @@
                 "firework": 1
             },
             "model": "item/netc/toolskins/soul_crossbow_firework"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6005,
+                "charged": 1,
+                "firework": 1
+            },
+            "model": "item/netc/toolskins/fantastic_cossbow_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6005,
+                "charged": 1,
+                "firework": 1
+            },
+            "model": "item/netc/toolskins/fantastic_cossbow_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6005,
+                "charged": 1,
+                "firework": 1
+            },
+            "model": "item/netc/toolskins/fantastic_cossbow_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6005,
+                "charged": 1,
+                "firework": 1
+            },
+            "model": "item/netc/toolskins/fantastic_cossbow_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6005,
+                "charged": 1,
+                "firework": 1
+            },
+            "model": "item/netc/toolskins/fantastic_cossbow_arrow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6005,
+                "charged": 1,
+                "firework": 1
+            },
+            "model": "item/netc/toolskins/fantastic_cossbow_firework"
         }
     ]
 }

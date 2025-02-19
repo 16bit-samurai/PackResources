@@ -34,6 +34,13 @@
                     "type": "model",
                     "model": "item/netc/toolskins/soul_shovel"
                 }
+            },
+            {
+                "threshold": 6005,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/toolskins/fantastic_shovel"
+                }
             }
         ]
     }

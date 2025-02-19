@@ -27,6 +27,12 @@
               "custom_model_data": 6004
           },
           "model": "item/netc/toolskins/soul_shovel"
+      },
+      {
+          "predicate": {
+              "custom_model_data": 6005
+          },
+          "model": "item/netc/toolskins/fantastic_shovel"
       }
   ]
 }

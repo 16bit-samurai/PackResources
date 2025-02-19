@@ -52,6 +52,12 @@
             },
             "model": "item/netc/toolskins/soul_sword"
         },
+        {
+            "predicate": {
+                "custom_model_data": 6005
+            },
+            "model": "item/netc/toolskins/fantastic_sword"
+        },
 
 
         
