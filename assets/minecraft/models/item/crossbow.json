@@ -237,41 +237,37 @@
         },
         {
             "predicate": {
-                "custom_model_data": 6005,
-                "charged": 1,
-                "firework": 1
+                "custom_model_data": 6005
             },
-            "model": "item/netc/toolskins/fantastic_cossbow_0"
+            "model": "item/netc/toolskins/fantastic_bow_0"
         },
         {
             "predicate": {
                 "custom_model_data": 6005,
-                "charged": 1,
-                "firework": 1
+                "pulling": 1
             },
-            "model": "item/netc/toolskins/fantastic_cossbow_1"
+            "model": "item/netc/toolskins/fantastic_bow_1"
         },
         {
             "predicate": {
                 "custom_model_data": 6005,
-                "charged": 1,
-                "firework": 1
+                "pulling": 1,
+                "pull": 0.58
             },
-            "model": "item/netc/toolskins/fantastic_cossbow_2"
+            "model": "item/netc/toolskins/fantastic_bow_2"
         },
         {
             "predicate": {
                 "custom_model_data": 6005,
-                "charged": 1,
-                "firework": 1
+                "pulling": 1,
+                "pull": 1.0
             },
-            "model": "item/netc/toolskins/fantastic_cossbow_3"
+            "model": "item/netc/toolskins/fantastic_bow_3"
         },
         {
             "predicate": {
                 "custom_model_data": 6005,
-                "charged": 1,
-                "firework": 1
+                "charged": 1
             },
             "model": "item/netc/toolskins/fantastic_cossbow_arrow"
         },
