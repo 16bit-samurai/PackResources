@@ -1,6 +1,6 @@
 {
     "parent": "item/bow",
     "textures": {
-        "layer0": "netc/toolskins/leaf_bow_2"
+        "layer0": "netc/toolskins/fantastic_bow_2"
     }
 }
