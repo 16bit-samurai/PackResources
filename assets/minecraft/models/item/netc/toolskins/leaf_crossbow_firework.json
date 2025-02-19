@@ -1,6 +1,6 @@
 {
     "parent": "item/crossbow",
     "textures": {
-        "layer0": "netc/toolskins/fantastic_crossbow_firework"
+        "layer0": "netc/toolskins/leaf_crossbow_firework"
     }
 }
