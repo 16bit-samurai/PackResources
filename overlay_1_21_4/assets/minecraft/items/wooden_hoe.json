@@ -13,7 +13,23 @@
                     "type": "model",
                     "model": "item/nw/zhanglang/zhanglang005"
                 }
+            },
+            {
+                "threshold": 5002,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/event/hga_gige/hga_assassin_dagger"
+                }
+            },
+            {
+                "threshold": 5003,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/event/hga_gige/hga_mage_wand"
+                }
             }
+
+
         ]
     }
 }

@@ -35,7 +35,23 @@
                         "model": "item/netc/shield/mmz023"
                     }
                 }
+            },
+            {
+                "threshold": 5002,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/netc/event/hga_gige/hga_warrior_shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/netc/event/hga_gige/hga_warrior_shield_blocking"
+                    }
+                }
             }
+
         ]
     },
     "display": {

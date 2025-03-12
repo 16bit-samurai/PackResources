@@ -63,6 +63,8 @@
   {"predicate": {"custom_model_data":110056}, "model": "custom/missing"},
   {"predicate": {"custom_model_data":110057}, "model": "custom/missing"},
   {"predicate": {"custom_model_data":110058}, "model": "custom/missing"},
-  {"predicate": {"custom_model_data":110059}, "model": "custom/missing"}
+  {"predicate": {"custom_model_data":110059}, "model": "custom/missing"},
+  {"predicate": {"custom_model_data":110100}, "model": "item/netc/event/hga_gige/hga_warrior_sword"}
+
   ]
 }

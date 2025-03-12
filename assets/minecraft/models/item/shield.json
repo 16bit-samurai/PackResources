@@ -60,6 +60,25 @@
                 "blocking": 1
             },
             "model": "item/netc/shield/mmz023"
+        },
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "item/netc/event/hga_gige/hga_shield_blocking"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5002
+            },
+            "model": "item/netc/event/hga_gige/hga_warrior_shield"
+        },
+        {
+            "predicate": {
+                "blocking": 1,
+                "custom_model_data": 5002
+            },
+            "model": "item/netc/event/hga_gige/hga_warrior_shield_blocking"
         }
     ]
 }
