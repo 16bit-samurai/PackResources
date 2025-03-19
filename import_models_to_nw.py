@@ -48,6 +48,8 @@ for file_name in os.listdir(import_dir):
         json_file_list.append(file_name)
     elif file_name.endswith('.png'):
         png_file_list.append(file_name)
+    elif file_name.endswith('.png.mcmeta'):
+        png_file_list.append(file_name)
 
 json_file_count = len(json_file_list)
 png_file_count = len(png_file_list)
