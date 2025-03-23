@@ -12165,7 +12165,7 @@
       "predicate": {
         "custom_model_data": 152000
       },
-      "model": "item/nw/mygo_mujica/a"
+      "model": "item/nw/mygo_mujica/anon"
     },
     {
       "predicate": {
@@ -12243,7 +12243,7 @@
       "predicate": {
         "custom_model_data": 152013
       },
-      "model": "item/nw/mygo_mujica/sakik"
+      "model": "item/nw/mygo_mujica/sakiko"
     },
     {
       "predicate": {
@@ -12273,7 +12273,7 @@
       "predicate": {
         "custom_model_data": 152018
       },
-      "model": "item/nw/mygo_mujica/soy"
+      "model": "item/nw/mygo_mujica/soyo"
     },
     {
       "predicate": {

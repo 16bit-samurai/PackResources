@@ -36367,7 +36367,7 @@
         "threshold": 152000,
         "model": {
           "type": "model",
-          "model": "item/nw/mygo_mujica/a",
+          "model": "item/nw/mygo_mujica/anon",
           "tints": [
             {
               "type": "constant",
@@ -36588,7 +36588,7 @@
         "threshold": 152013,
         "model": {
           "type": "model",
-          "model": "item/nw/mygo_mujica/sakik",
+          "model": "item/nw/mygo_mujica/sakiko",
           "tints": [
             {
               "type": "constant",
@@ -36673,7 +36673,7 @@
         "threshold": 152018,
         "model": {
           "type": "model",
-          "model": "item/nw/mygo_mujica/soy",
+          "model": "item/nw/mygo_mujica/soyo",
           "tints": [
             {
               "type": "constant",
