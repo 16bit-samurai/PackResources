@@ -103,7 +103,7 @@ old_cmd_file.close()
 new_cmd_file.close()
 
 #save csv file
-with open(csv_file, 'w') as file:
+with open(csv_file, 'w', newline='') as file:
     writer = csv.writer(file)
     writer.writerows(cmd_rows)
 
