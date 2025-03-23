@@ -12754,6 +12754,24 @@
         "custom_model_data": 153071
       },
       "model": "item/nw/livehouse/yui_guitar2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 154000
+      },
+      "model": "item/nw/bench_addon/gongyuanchangyi"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 154001
+      },
+      "model": "item/nw/bench_addon/gongyuanchangyi2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 154002
+      },
+      "model": "item/nw/bench_addon/gongyuanchangyi3"
     }
   ]
 }

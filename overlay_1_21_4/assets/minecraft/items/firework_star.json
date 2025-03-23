@@ -38045,6 +38045,57 @@
             }
           ]
         }
+      },
+      {
+        "threshold": 154000,
+        "model": {
+          "type": "model",
+          "model": "item/nw/bench_addon/gongyuanchangyi",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 154001,
+        "model": {
+          "type": "model",
+          "model": "item/nw/bench_addon/gongyuanchangyi2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 154002,
+        "model": {
+          "type": "model",
+          "model": "item/nw/bench_addon/gongyuanchangyi3",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
       }
     ]
   }
