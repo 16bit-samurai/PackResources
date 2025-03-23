@@ -12160,6 +12160,168 @@
         "custom_model_data": 151000
       },
       "model": "item/netc/event/orange"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152000
+      },
+      "model": "item/nw/mygo_mujica/a"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152001
+      },
+      "model": "item/nw/mygo_mujica/anon_god"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152002
+      },
+      "model": "item/nw/mygo_mujica/hatsune"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152003
+      },
+      "model": "item/nw/mygo_mujica/hatsune2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152004
+      },
+      "model": "item/nw/mygo_mujica/hatsune3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152005
+      },
+      "model": "item/nw/mygo_mujica/muzimi"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152006
+      },
+      "model": "item/nw/mygo_mujica/muzimi2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152007
+      },
+      "model": "item/nw/mygo_mujica/muzimi3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152008
+      },
+      "model": "item/nw/mygo_mujica/nyamu"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152009
+      },
+      "model": "item/nw/mygo_mujica/nyamu2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152010
+      },
+      "model": "item/nw/mygo_mujica/nyamu3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152011
+      },
+      "model": "item/nw/mygo_mujica/rana"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152012
+      },
+      "model": "item/nw/mygo_mujica/rana2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152013
+      },
+      "model": "item/nw/mygo_mujica/sakik"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152014
+      },
+      "model": "item/nw/mygo_mujica/sakiko2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152015
+      },
+      "model": "item/nw/mygo_mujica/sakiko3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152016
+      },
+      "model": "item/nw/mygo_mujica/satono_diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152017
+      },
+      "model": "item/nw/mygo_mujica/satono_diamond2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152018
+      },
+      "model": "item/nw/mygo_mujica/soy"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152019
+      },
+      "model": "item/nw/mygo_mujica/soyo2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152020
+      },
+      "model": "item/nw/mygo_mujica/taki"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152021
+      },
+      "model": "item/nw/mygo_mujica/taki2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152022
+      },
+      "model": "item/nw/mygo_mujica/tomori"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152023
+      },
+      "model": "item/nw/mygo_mujica/tomori2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152024
+      },
+      "model": "item/nw/mygo_mujica/umiri"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152025
+      },
+      "model": "item/nw/mygo_mujica/umiri2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152026
+      },
+      "model": "item/nw/mygo_mujica/umiri3"
     }
   ]
 }

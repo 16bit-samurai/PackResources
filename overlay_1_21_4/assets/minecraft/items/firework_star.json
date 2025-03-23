@@ -34006,8 +34006,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/afc",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34017,8 +34023,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/bigwater1",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34028,8 +34040,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/bigwater2",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34039,8 +34057,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/bigwater3",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34050,8 +34074,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/bigwater4",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34061,8 +34091,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/cardmaker",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34072,8 +34108,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/cash_register",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34083,8 +34125,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/cash_register2",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34094,8 +34142,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/chunithm",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34105,8 +34159,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/glove",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34116,8 +34176,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/laptop",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34127,8 +34193,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/laptop2",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34138,8 +34210,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/m18a1_chaotianjiang",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34149,8 +34227,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/m18a1",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34160,8 +34244,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/macintosh",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34171,8 +34261,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/maimaiadx",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34182,8 +34278,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/maimaidx",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34193,8 +34295,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/ongeki",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34204,8 +34312,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/ps5",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34215,8 +34329,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/switch",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34226,8 +34346,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/switch2",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34237,8 +34363,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/taiko_no_tatsujin",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34248,8 +34380,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/turnstile_2_off",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34259,8 +34397,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/turnstile_2_on",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34270,8 +34414,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/turnstile",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34281,8 +34431,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/xbox",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34292,8 +34448,14 @@
           "type": "model",
           "model": "item/nw/leaf_1/bigwater_hand",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34303,8 +34465,14 @@
           "type": "model",
           "model": "item/nw/leaf_2/bakery_off",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34314,8 +34482,14 @@
           "type": "model",
           "model": "item/nw/leaf_2/bakery_on",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34325,8 +34499,14 @@
           "type": "model",
           "model": "item/nw/leaf_2/dehumidifiers",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34336,8 +34516,14 @@
           "type": "model",
           "model": "item/nw/leaf_2/dust_catcher",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34347,8 +34533,14 @@
           "type": "model",
           "model": "item/nw/leaf_2/kettle",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34358,8 +34550,14 @@
           "type": "model",
           "model": "item/nw/leaf_2/microwave_off",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34369,8 +34567,14 @@
           "type": "model",
           "model": "item/nw/leaf_2/microwave_on",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34380,8 +34584,14 @@
           "type": "model",
           "model": "item/nw/leaf_2/rice_cooker",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34391,8 +34601,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_bishop_basalt_side",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34402,8 +34618,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_bishop_dark_oak_planks",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34413,8 +34635,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_bishop_gilded_blackstone",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34424,8 +34652,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_bishop_gold_block",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34435,8 +34669,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_bishop_netherite_block",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34446,8 +34686,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_king_basalt_side",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34457,8 +34703,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_king_dark_oak_planks",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34468,8 +34720,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_king_gilded_blackstone",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34479,8 +34737,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_king_gold_block",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34490,8 +34754,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_king_netherite_block",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34501,8 +34771,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_knight_basalt_side",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34512,8 +34788,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_knight_dark_oak_planks",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34523,8 +34805,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_knight_gilded_blackstone",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34534,8 +34822,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_knight_gold_block",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34545,8 +34839,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_knight_netherite_block",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34556,8 +34856,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_pawn_basalt_side",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34567,8 +34873,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_pawn_dark_oak_planks",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34578,8 +34890,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_pawn_gilded_blackstone",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34589,8 +34907,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_pawn_gold_block",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34600,8 +34924,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_pawn_netherite_block",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34611,8 +34941,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_queen_basalt_side",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34622,8 +34958,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_queen_dark_oak_planks",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34633,8 +34975,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_queen_gilded_blackstone",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34644,8 +34992,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_queen_gold_block",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34655,8 +35009,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_queen_netherite_block",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34666,8 +35026,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_rook_basalt_side",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34677,8 +35043,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_rook_dark_oak_planks",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34688,8 +35060,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_rook_gilded_blackstone",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34699,8 +35077,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_rook_gold_block",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34710,8 +35094,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_black_rook_netherite_block",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34721,8 +35111,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_bishop_diorite",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34732,8 +35128,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_bishop_iron_block",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34743,8 +35145,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_bishop_lodestone_top",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34754,8 +35162,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_bishop_quartz_block_bottom",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34765,8 +35179,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_bishop_smooth_sandstone",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34776,8 +35196,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_king_diorite",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34787,8 +35213,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_king_iron_block",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34798,8 +35230,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_king_lodestone_top",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34809,8 +35247,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_king_quartz_block_bottom",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34820,8 +35264,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_king_smooth_sandstone",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34831,8 +35281,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_knight_diorite",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34842,8 +35298,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_knight_iron_block",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34853,8 +35315,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_knight_lodestone_top",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34864,8 +35332,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_knight_quartz_block_bottom",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34875,8 +35349,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_knight_smooth_sandstone",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34886,8 +35366,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_pawn_diorite",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34897,8 +35383,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_pawn_iron_block",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34908,8 +35400,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_pawn_lodestone_top",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34919,8 +35417,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_pawn_quartz_block_bottom",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34930,8 +35434,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_pawn_smooth_sandstone",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34941,8 +35451,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_queen_diorite",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34952,8 +35468,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_queen_iron_block",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34963,8 +35485,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_queen_lodestone_top",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34974,8 +35502,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_queen_quartz_block_bottom",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34985,8 +35519,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_queen_smooth_sandstone",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -34996,8 +35536,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_rook_diorite",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35007,8 +35553,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_rook_iron_block",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35018,8 +35570,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_rook_lodestone_top",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35029,8 +35587,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_rook_quartz_block_bottom",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35040,8 +35604,14 @@
           "type": "model",
           "model": "item/nw/chess/chess_white_rook_smooth_sandstone",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35051,8 +35621,14 @@
           "type": "model",
           "model": "item/nw/table_game/flight_chess_box",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35062,8 +35638,14 @@
           "type": "model",
           "model": "item/nw/table_game/flight_chess_logo",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35073,8 +35655,14 @@
           "type": "model",
           "model": "item/nw/table_game/rotary",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35084,8 +35672,14 @@
           "type": "model",
           "model": "item/nw/table_game/flight_chess_blue",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35095,8 +35689,14 @@
           "type": "model",
           "model": "item/nw/table_game/flight_chess_green",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35106,8 +35706,14 @@
           "type": "model",
           "model": "item/nw/table_game/flight_chess_red",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35117,8 +35723,14 @@
           "type": "model",
           "model": "item/nw/table_game/flight_chess_yellow",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35128,8 +35740,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/1",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35139,8 +35757,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/2",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35150,8 +35774,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/3",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35161,8 +35791,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/4",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35172,8 +35808,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/5",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35183,8 +35825,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/6",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35194,8 +35842,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/7",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35205,8 +35859,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/8",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35216,8 +35876,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/9",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35227,8 +35893,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/0",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35238,8 +35910,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/a",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35249,8 +35927,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/b",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35260,8 +35944,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/c",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35271,8 +35961,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/d",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35282,8 +35978,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/e",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35293,8 +35995,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/f",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35304,8 +36012,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/g",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35315,8 +36029,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/h",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35326,8 +36046,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/i",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35337,8 +36063,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/j",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35348,8 +36080,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/k",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35359,8 +36097,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/l",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35370,8 +36114,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/m",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35381,8 +36131,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/n",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35392,8 +36148,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/o",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35403,8 +36165,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/p",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35414,8 +36182,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/q",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35425,8 +36199,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/r",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35436,8 +36216,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/s",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35447,8 +36233,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/t",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35458,8 +36250,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/u",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35469,8 +36267,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/v",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35480,8 +36284,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/w",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35491,8 +36301,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/x",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35502,8 +36318,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/y",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35513,8 +36335,14 @@
           "type": "model",
           "model": "item/nw/leaf_3/z",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       },
@@ -35524,8 +36352,473 @@
           "type": "model",
           "model": "item/netc/event/orange",
           "tints": [
-            { "type": "constant", "value": -1 },
-            { "type": "firework", "default": -7697782 }
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152000,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/a",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152001,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/anon_god",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152002,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/hatsune",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152003,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/hatsune2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152004,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/hatsune3",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152005,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/muzimi",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152006,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/muzimi2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152007,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/muzimi3",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152008,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/nyamu",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152009,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/nyamu2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152010,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/nyamu3",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152011,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/rana",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152012,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/rana2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152013,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/sakik",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152014,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/sakiko2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152015,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/sakiko3",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152016,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/satono_diamond",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152017,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/satono_diamond2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152018,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/soy",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152019,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/soyo2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152020,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/taki",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152021,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/taki2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152022,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/tomori",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152023,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/tomori2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152024,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/umiri",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152025,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/umiri2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 152026,
+        "model": {
+          "type": "model",
+          "model": "item/nw/mygo_mujica/umiri3",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
           ]
         }
       }
