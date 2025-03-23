@@ -36821,6 +36821,1230 @@
             }
           ]
         }
+      },
+      {
+        "threshold": 153000,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/adj_panel",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153001,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/anon_guitar",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153002,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/anon_guitar2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153003,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/bar_chair",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153004,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/basic_guitar",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153005,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/basic_guitar2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153006,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/bass",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153007,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/bass2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153008,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/bocchi_guitar",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153009,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/bocchi_guitar2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153010,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/drink_machine",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153011,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/drink_machine2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153012,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/drum_set",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153013,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/effector",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153014,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/fender_bass",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153015,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/fender_bass2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153016,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/green_wood_fender_bass",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153017,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/green_wood_fender_bass2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153018,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/guitar_bag_lay",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153019,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/guitar_bag_tilt",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153020,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/hanging_fan",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153021,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/hanging_light",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153022,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/hanging_light_big",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153023,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/hanging_light_tilt",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153024,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/hanging_penguin",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153025,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/keyboard",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153026,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/keyboard_large",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153027,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/kita_guitar",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153028,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/kita_guitar2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153029,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/liang_bass",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153030,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/liang_bass2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153031,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/maccha_parfait",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153032,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/maxieer_speaker",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153033,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/mic_stand",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153034,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/mio_bass",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153035,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/mio_bass2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153036,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/mirror10",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153037,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/mirror12",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153038,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/mirror13",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153039,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/mirror14",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153040,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/mirror15",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153041,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/mirror16",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153042,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/mirror17",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153043,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/mirror18",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153044,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/mirror19",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153045,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/mirror2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153046,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/mirror20",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153047,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/mirror3",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153048,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/mirror4",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153049,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/mirror5",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153050,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/mirror6",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153051,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/mirror7",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153052,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/mirror8",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153053,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/mirror9",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153054,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/momoka_guitar",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153055,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/momoka_guitar2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153056,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/rana_guitar",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153057,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/rana_guitar2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153058,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/rupa_bass",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153059,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/rupa_bass2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153060,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/sheet_stand",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153061,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/soyo_bass",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153062,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/soyo_bass2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153063,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/stage_speaker",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153064,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/stage_speaker2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153065,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/stage_speaker3",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153066,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/tiepianshedeng",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153067,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/wood_guitar",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153068,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/wood_guitar2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153069,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/yueqijia",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153070,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/yui_guitar",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 153071,
+        "model": {
+          "type": "model",
+          "model": "item/nw/livehouse/yui_guitar2",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
       }
     ]
   }

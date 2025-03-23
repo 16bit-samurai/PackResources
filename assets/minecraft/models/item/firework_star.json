@@ -12322,6 +12322,438 @@
         "custom_model_data": 152026
       },
       "model": "item/nw/mygo_mujica/umiri3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153000
+      },
+      "model": "item/nw/livehouse/adj_panel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153001
+      },
+      "model": "item/nw/livehouse/anon_guitar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153002
+      },
+      "model": "item/nw/livehouse/anon_guitar2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153003
+      },
+      "model": "item/nw/livehouse/bar_chair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153004
+      },
+      "model": "item/nw/livehouse/basic_guitar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153005
+      },
+      "model": "item/nw/livehouse/basic_guitar2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153006
+      },
+      "model": "item/nw/livehouse/bass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153007
+      },
+      "model": "item/nw/livehouse/bass2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153008
+      },
+      "model": "item/nw/livehouse/bocchi_guitar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153009
+      },
+      "model": "item/nw/livehouse/bocchi_guitar2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153010
+      },
+      "model": "item/nw/livehouse/drink_machine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153011
+      },
+      "model": "item/nw/livehouse/drink_machine2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153012
+      },
+      "model": "item/nw/livehouse/drum_set"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153013
+      },
+      "model": "item/nw/livehouse/effector"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153014
+      },
+      "model": "item/nw/livehouse/fender_bass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153015
+      },
+      "model": "item/nw/livehouse/fender_bass2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153016
+      },
+      "model": "item/nw/livehouse/green_wood_fender_bass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153017
+      },
+      "model": "item/nw/livehouse/green_wood_fender_bass2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153018
+      },
+      "model": "item/nw/livehouse/guitar_bag_lay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153019
+      },
+      "model": "item/nw/livehouse/guitar_bag_tilt"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153020
+      },
+      "model": "item/nw/livehouse/hanging_fan"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153021
+      },
+      "model": "item/nw/livehouse/hanging_light"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153022
+      },
+      "model": "item/nw/livehouse/hanging_light_big"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153023
+      },
+      "model": "item/nw/livehouse/hanging_light_tilt"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153024
+      },
+      "model": "item/nw/livehouse/hanging_penguin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153025
+      },
+      "model": "item/nw/livehouse/keyboard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153026
+      },
+      "model": "item/nw/livehouse/keyboard_large"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153027
+      },
+      "model": "item/nw/livehouse/kita_guitar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153028
+      },
+      "model": "item/nw/livehouse/kita_guitar2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153029
+      },
+      "model": "item/nw/livehouse/liang_bass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153030
+      },
+      "model": "item/nw/livehouse/liang_bass2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153031
+      },
+      "model": "item/nw/livehouse/maccha_parfait"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153032
+      },
+      "model": "item/nw/livehouse/maxieer_speaker"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153033
+      },
+      "model": "item/nw/livehouse/mic_stand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153034
+      },
+      "model": "item/nw/livehouse/mio_bass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153035
+      },
+      "model": "item/nw/livehouse/mio_bass2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153036
+      },
+      "model": "item/nw/livehouse/mirror10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153037
+      },
+      "model": "item/nw/livehouse/mirror12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153038
+      },
+      "model": "item/nw/livehouse/mirror13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153039
+      },
+      "model": "item/nw/livehouse/mirror14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153040
+      },
+      "model": "item/nw/livehouse/mirror15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153041
+      },
+      "model": "item/nw/livehouse/mirror16"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153042
+      },
+      "model": "item/nw/livehouse/mirror17"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153043
+      },
+      "model": "item/nw/livehouse/mirror18"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153044
+      },
+      "model": "item/nw/livehouse/mirror19"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153045
+      },
+      "model": "item/nw/livehouse/mirror2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153046
+      },
+      "model": "item/nw/livehouse/mirror20"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153047
+      },
+      "model": "item/nw/livehouse/mirror3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153048
+      },
+      "model": "item/nw/livehouse/mirror4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153049
+      },
+      "model": "item/nw/livehouse/mirror5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153050
+      },
+      "model": "item/nw/livehouse/mirror6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153051
+      },
+      "model": "item/nw/livehouse/mirror7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153052
+      },
+      "model": "item/nw/livehouse/mirror8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153053
+      },
+      "model": "item/nw/livehouse/mirror9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153054
+      },
+      "model": "item/nw/livehouse/momoka_guitar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153055
+      },
+      "model": "item/nw/livehouse/momoka_guitar2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153056
+      },
+      "model": "item/nw/livehouse/rana_guitar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153057
+      },
+      "model": "item/nw/livehouse/rana_guitar2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153058
+      },
+      "model": "item/nw/livehouse/rupa_bass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153059
+      },
+      "model": "item/nw/livehouse/rupa_bass2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153060
+      },
+      "model": "item/nw/livehouse/sheet_stand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153061
+      },
+      "model": "item/nw/livehouse/soyo_bass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153062
+      },
+      "model": "item/nw/livehouse/soyo_bass2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153063
+      },
+      "model": "item/nw/livehouse/stage_speaker"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153064
+      },
+      "model": "item/nw/livehouse/stage_speaker2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153065
+      },
+      "model": "item/nw/livehouse/stage_speaker3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153066
+      },
+      "model": "item/nw/livehouse/tiepianshedeng"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153067
+      },
+      "model": "item/nw/livehouse/wood_guitar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153068
+      },
+      "model": "item/nw/livehouse/wood_guitar2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153069
+      },
+      "model": "item/nw/livehouse/yueqijia"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153070
+      },
+      "model": "item/nw/livehouse/yui_guitar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153071
+      },
+      "model": "item/nw/livehouse/yui_guitar2"
     }
   ]
 }
