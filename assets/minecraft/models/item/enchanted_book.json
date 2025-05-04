@@ -69,6 +69,18 @@
       "custom_model_data": 11
   },
   "model": "item/netc/tickets/ticket_signs"
+},
+{
+  "predicate": {
+      "custom_model_data": 12
+  },
+  "model": "item/netc/tickets/ticket_mygo_mujica"
+},
+{
+  "predicate": {
+      "custom_model_data": 13
+  },
+  "model": "item/netc/tickets/ticket_livehouse"
 }
 ]
 }

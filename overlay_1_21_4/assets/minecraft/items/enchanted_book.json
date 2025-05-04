@@ -83,6 +83,20 @@
                     "type": "model",
                     "model": "item/netc/tickets/ticket_signs"
                 }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/tickets/ticket_mygo_mujica"
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/tickets/ticket_livehouse"
+                }
             }
         ]
     }
