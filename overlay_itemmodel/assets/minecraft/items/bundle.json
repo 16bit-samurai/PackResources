@@ -1,0 +1,26 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/bundle"
+        },
+        "entries": [
+            {
+                "threshold": 5002,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/paper/2025_redbag"
+                }
+            },
+            {
+                "threshold": 5002,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/paper/2025_redbag"
+                }
+            }
+        ]
+    }
+}

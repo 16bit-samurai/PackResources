@@ -1,0 +1,159 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/book"
+        },
+        "entries": [
+            {
+                "threshold": 110000,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110001,
+                "model": {
+                    "type": "model",
+                    "model": "custom/tools/eye_of_insight"
+                }
+            },
+            {
+                "threshold": 110002,
+                "model": {
+                    "type": "model",
+                    "model": "custom/tools/book_of_fusion"
+                }
+            },
+            {
+                "threshold": 110003,
+                "model": {
+                    "type": "model",
+                    "model": "custom/tools/book_of_transform"
+                }
+            },
+            {
+                "threshold": 110004,
+                "model": {
+                    "type": "model",
+                    "model": "custom/tools/void_belt"
+                }
+            },
+            {
+                "threshold": 110005,
+                "model": {
+                    "type": "model",
+                    "model": "custom/tools/tale_of_odyssey"
+                }
+            },
+            {
+                "threshold": 110006,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110007,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110008,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110009,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110010,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110011,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110012,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110013,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110014,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110015,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110016,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110017,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110018,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110019,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            },
+            {
+                "threshold": 110020,
+                "model": {
+                    "type": "model",
+                    "model": "custom/missing"
+                }
+            }
+        ]
+    }
+}

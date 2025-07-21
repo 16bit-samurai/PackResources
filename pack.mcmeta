@@ -3,7 +3,7 @@
     "pack_format": 34,
     "supported_formats": [
         34,
-        46
+        64
     ],
     "description": [
       {
@@ -23,12 +23,25 @@
   "overlays": {
     "entries": [
       {
-        "directory": "overlay_1_21_3",
-        "formats": 42
+        "directory": "overlay_1.21_shader",
+        "formats": [
+          34,
+          46
+        ]
       },
       {
-        "directory": "overlay_1_21_4",
-        "formats": 46
+        "directory": "overlay_1.21.3_shader",
+        "formats": [
+          42,
+          46
+        ]
+      },
+      {
+        "directory": "overlay_itemmodel",
+        "formats": [
+          46,
+          64
+        ]
       }
     ]
   }
