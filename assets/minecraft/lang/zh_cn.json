@@ -10,5 +10,18 @@
     "ne.enchantments.siphon": "虹吸",
     "ne.enchantments.smelting": "熔炼",
     "ne.enchantments.tenacity": "坚韧",
-    "ne.enchantments.timber": "伐木"
+    "ne.enchantments.timber": "伐木",
+    "ne.enchantments.armored": "装甲",
+    "ne.enchantments.vitality": "生机",
+    "ne.enchantments.intellect": "智识",
+    "ne.enchantments.steady": "稳固",
+    "ne.enchantments.determined": "不屈",
+    "ne.enchantments.sprint": "疾走",
+    "ne.enchantments.spring_boots": "弹力靴",
+    "ne.enchantments.brisk_walking": "健步",
+    "ne.enchantments.wing_shield": "守护之翼",
+    "ne.enchantments.sakura_kinetics": "樱花动力",
+    "ne.enchantments.wind_launch": "凌风跃",
+    "ne.enchantments.heart_of_kedama": "毛玉之心",
+    "ne.enchantments.hollow_curse": "空洞诅咒"
 }
