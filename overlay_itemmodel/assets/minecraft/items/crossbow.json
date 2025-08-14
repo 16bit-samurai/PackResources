@@ -285,20 +285,20 @@
                         "property": "minecraft:charge_type",
                         "fallback": {
                             "type": "minecraft:model",
-                            "model": "item/netc/toolskins/fantastic_cossbow_0"
+                            "model": "item/netc/toolskins/fantastic_crossbow_0"
                         },
                         "cases": [
                             {
                                 "model": {
                                     "type": "minecraft:model",
-                                    "model": "item/netc/toolskins/fantastic_cossbow_arrow"
+                                    "model": "item/netc/toolskins/fantastic_crossbow_arrow"
                                 },
                                 "when": "arrow"
                             },
                             {
                                 "model": {
                                     "type": "minecraft:model",
-                                    "model": "item/netc/toolskins/fantastic_cossbow_firework"
+                                    "model": "item/netc/toolskins/fantastic_crossbow_firework"
                                 },
                                 "when": "rocket"
                             }
@@ -309,21 +309,21 @@
                         "property": "minecraft:crossbow/pull",
                         "fallback": {
                             "type": "minecraft:model",
-                            "model": "item/netc/toolskins/fantastic_cossbow_1"
+                            "model": "item/netc/toolskins/fantastic_crossbow_1"
                         },
                         "entries": [
                             {
                                 "threshold": 0.58,
                                 "model": {
                                     "type": "minecraft:model",
-                                    "model": "item/netc/toolskins/fantastic_cossbow_2"
+                                    "model": "item/netc/toolskins/fantastic_crossbow_2"
                                 }
                             },
                             {
                                 "threshold": 1.0,
                                 "model": {
                                     "type": "minecraft:model",
-                                    "model": "item/netc/toolskins/fantastic_cossbow_3"
+                                    "model": "item/netc/toolskins/fantastic_crossbow_3"
                                 }
                             }
                         ]
