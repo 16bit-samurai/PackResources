@@ -276,7 +276,7 @@
                 }
             },
             {
-                "threshold": 600,
+                "threshold": 6005,
                 "model": {
                     "type": "minecraft:condition",
                     "property": "minecraft:using_item",
