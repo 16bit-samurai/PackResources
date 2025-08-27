@@ -34,6 +34,8 @@
   {"predicate": {"custom_model_data":110027}, "model": "custom/missing"},
   {"predicate": {"custom_model_data":110028}, "model": "custom/missing"},
   {"predicate": {"custom_model_data":110029}, "model": "custom/missing"},
-  {"predicate": {"custom_model_data":110030}, "model": "item/netc/event/orange"}
+  {"predicate": {"custom_model_data":110030}, "model": "item/netc/event/orange"},
+  {"predicate": {"custom_model_data":110031}, "model": "item/netc/event/frost_craft/rifle_bullet"}
+
   ]
 }

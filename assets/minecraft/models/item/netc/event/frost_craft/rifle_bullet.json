@@ -1,0 +1,19 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "netc/event/frost_craft/rifle_bullet"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 0, 45],
+			"translation": [0, 1.5, 0],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"firstperson_righthand": {
+			"rotation": [25, 90, 0],
+			"translation": [2, 1, 0],
+			"scale": [0.4, 0.4, 0.4]
+		}
+	}
+}

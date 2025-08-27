@@ -223,6 +223,13 @@
                     "type": "model",
                     "model": "item/netc/event/orange"
                 }
+            },
+                        {
+                "threshold": 110031,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/event/frost_craft/rifle_bullet"
+                }
             }
         ]
     }

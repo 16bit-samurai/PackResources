@@ -1,0 +1,8 @@
+{
+    "parent": "item/netc/event/frost_craft/beer",
+	"textures": {
+		"1": "netc/event/frost_craft/beer",
+		"2": "item/poisonous_potato",
+		"particle": "item/poisonous_potato"
+	}
+}

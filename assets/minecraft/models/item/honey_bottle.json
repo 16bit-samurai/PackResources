@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "item/honey_bottle"
+    },
+    "overrides":[
+        {"predicate": {"custom_model_data":1}, "model": "item/netc/event/frost_craft/beer"},
+        {"predicate": {"custom_model_data":2}, "model": "item/netc/event/frost_craft/beer_2"},
+        {"predicate": {"custom_model_data":3}, "model": "item/netc/event/frost_craft/beer_rabbit"},
+        {"predicate": {"custom_model_data":4}, "model": "item/netc/event/frost_craft/beer_potato"},
+        {"predicate": {"custom_model_data":5}, "model": "item/netc/event/frost_craft/beer_carrot"},
+        {"predicate": {"custom_model_data":6}, "model": "item/netc/event/frost_craft/beer_poison"}
+    ]
+}
