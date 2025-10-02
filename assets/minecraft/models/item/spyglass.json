@@ -7,6 +7,6 @@
         "predicate": {
             "custom_model_data": 1
         },
-        "model": "item/netc/event/frost_craft/spyglass_in_hand"
+        "model": "item/netc/event/frost_craft/spyglass"
     }
 }

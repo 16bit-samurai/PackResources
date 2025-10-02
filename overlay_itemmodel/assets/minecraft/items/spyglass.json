@@ -3,26 +3,47 @@
         "type": "range_dispatch",
         "property": "custom_model_data",
         "fallback": {
-            "type": "model",
-            "model": "item/spyglass"
-        },
-        "entries": [
+          "type": "minecraft:select",
+          "cases": [
             {
-                "threshold": 1,
-                "model": {
-                    "type": "minecraft:condition",
-                    "property": "minecraft:using_item",
-                    "on_false": {
-                        "type": "minecraft:model",
-                        "model": "item/netc/event/frost_craft/spyglass"
-                    },
-                    "on_true": {
-                        "type": "minecraft:model",
-                        "model": "item/netc/event/frost_craft/spyglass_in_hand"
-                    }
-                }
+              "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/spyglass"
+            },
+            "when": [
+              "gui",
+              "ground",
+              "fixed"
+            ]
             }
 
-        ]
-    }
-}
+          ],
+          "property": "minecraft:display_context",
+          "fallback": {
+            "type": "model",
+            "model": "item/spyglass_in_hand"
+          }
+        },
+        "property": "custom_model_data",
+        "entries": [
+                        {
+                            "threshold": 1,
+                            "model": {
+                                "type": "minecraft:condition",
+                                "on_false": {
+                                    "type": "minecraft:model",
+                                    "model": "item/netc/event/frost_craft/spyglass"
+                                },
+                                "on_true": {
+                                    "type": "minecraft:model",
+                                    "model": "item/netc/event/frost_craft/spyglass_in_hand"
+                                },
+                                "property": "minecraft:using_item"
+                            }
+                        }
+                    ]
+                }
+            }
+        
+    
+
