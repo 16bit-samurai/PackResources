@@ -5,7 +5,7 @@
         34,
         64
     ],
-    "min_format":69,
+    "min_format":34,
     "max_format":69,
     "description": [
       {
@@ -29,14 +29,18 @@
         "formats": [
           34,
           46
-        ]
+        ],
+        "min_format":34,
+        "max_format":46
       },
       {
         "directory": "overlay_1.21.3_shader",
         "formats": [
           42,
           46
-        ]
+        ],
+        "min_format":42,
+        "max_format":46
       },
       {
         "directory": "overlay_itemmodel",
@@ -44,7 +48,7 @@
           46,
           64
         ],
-        "min_format":69,
+        "min_format":46,
         "max_format":69
       }
     ]
