@@ -5,6 +5,8 @@
         34,
         64
     ],
+    "min_format":69,
+    "max_format":69,
     "description": [
       {
         "text": "喵窝/毛线",
@@ -41,7 +43,9 @@
         "formats": [
           46,
           64
-        ]
+        ],
+        "min_format":69,
+        "max_format":69
       }
     ]
   }
