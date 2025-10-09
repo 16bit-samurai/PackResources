@@ -489,7 +489,65 @@
                     "type": "model",
                     "model": "custom/missing"
                 }
+            },
+                        {
+                "threshold": 110061,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/event/all_girl_land/wands/w3_element"
+                }
             }
+,
+            {
+                "threshold": 110062,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/event/all_girl_land/wands/w3_refined"
+                }
+            }
+,            {
+                "threshold": 110063,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/event/all_girl_land/wands/w4_amber"
+                }
+            }
+,            {
+                "threshold": 110064,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/event/all_girl_land/wands/w4_dark"
+                }
+            }
+,            {
+                "threshold": 110065,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/event/all_girl_land/wands/w4_emerald"
+                }
+            }
+,            {
+                "threshold": 110066,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/event/all_girl_land/wands/w4_pearl"
+                }
+            }
+,            {
+                "threshold": 110067,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/event/all_girl_land/wands/w4_storm"
+                }
+            }
+,            {
+                "threshold": 110068,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/event/all_girl_land/wands/w4_thunder"
+                }
+            }
+
         ]
     }
 }

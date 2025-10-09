@@ -420,6 +420,55 @@
                 "custom_model_data": 110059
             },
             "model": "custom/missing"
+        },
+                {
+            "predicate": {
+                "custom_model_data": 110061
+            },
+            "model": "item/netc/event/all_girl_land/wands/w3_element"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110062
+            },
+            "model": "item/netc/event/all_girl_land/wands/w3_refined"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110063
+            },
+            "model": "item/netc/event/all_girl_land/wands/w4_amber"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110064
+            },
+            "model": "item/netc/event/all_girl_land/wands/w4_dark"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110065
+            },
+            "model": "item/netc/event/all_girl_land/wands/w4_emerald"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110066
+            },
+            "model": "item/netc/event/all_girl_land/wands/w4_pearl"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110067
+            },
+            "model": "item/netc/event/all_girl_land/wands/w4_storm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110068
+            },
+            "model": "item/netc/event/all_girl_land/wands/w4_thunder"
         }
+
     ]
 }

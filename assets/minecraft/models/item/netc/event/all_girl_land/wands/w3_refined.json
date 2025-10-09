@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "netc/event/all_girl_land/wands/w3_refined"
+  }
+}

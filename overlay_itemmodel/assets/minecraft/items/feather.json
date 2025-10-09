@@ -531,7 +531,30 @@
                     "type": "model",
                     "model": "item/netc/event/hga_gige/hga_jumper"
                 }
+            },
+                                    {
+                "threshold": 110104,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/event/all_girl_land/hats/t2_hat"
+                }
+            },
+                                    {
+                "threshold": 110105,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/event/all_girl_land/hats/t3_hat"
+                }
+            },                        {
+                "threshold": 110106,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/event/all_girl_land/hats/t4_hat"
+                }
             }
+
+
+
         ]
     },
     "display": {

@@ -4,6 +4,8 @@
         "layer0": "item/nautilus_shell"
     },
     "overrides":[
-        {"predicate": {"custom_model_data":1}, "model": "item/netc/event/frost_craft/drone"}
+        {"predicate": {"custom_model_data":1}, "model": "item/netc/event/frost_craft/drone"},
+        {"predicate": {"custom_model_data":2}, "model": "item/netc/event/all_girl_land/riding_broom/long_brush"}
+
         ]
 }

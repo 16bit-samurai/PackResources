@@ -1,0 +1,15 @@
+{
+	"parent": "item/netc/event/all_girl_land/broom/normal",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-65, 105, 0],
+			"translation": [-1, -2, -2],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-45, 0, -35],
+			"translation": [-0.5, 2, -3],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	}
+}

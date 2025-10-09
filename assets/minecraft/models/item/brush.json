@@ -1,0 +1,7 @@
+{
+    "parent": "item/brush",
+    "overrides":[
+        {"predicate": {"custom_model_data":1}, "model": "item/netc/event/all_girl_land/long_brush/normal"},
+        {"predicate": {"custom_model_data":2}, "model": "item/netc/event/all_girl_land/broom/normal"}
+    ]
+}

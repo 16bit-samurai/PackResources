@@ -13,7 +13,15 @@
                     "type": "model",
                     "model": "item/netc/event/frost_craft/drone"
                 }
+            },
+                       {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/event/all_girl_land/riding_broom/long_brush"
+                }
             }
+
         ]
     }
 }
