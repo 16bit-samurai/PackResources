@@ -27,6 +27,13 @@
                     "type": "model",
                     "model": "item/netc/card/card"
                 }
+            },
+                 {
+                "threshold": 5004,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/ttf_playground/apex_card"
+                }
             }
         ]
     }

@@ -20,6 +20,12 @@
         "custom_model_data": 5003
       },
       "model": "item/netc/card/card"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5004
+      },
+      "model": "item/netc/ttf_playground/apex_card"
     }
 ]
 }
