@@ -41,7 +41,23 @@
                     "type": "model",
                     "model": "item/netc/toolskins/fantastic_hoe"
                 }
+            },
+                        {
+                "threshold": 6006,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/toolskins/golden_iron_hoe"
+                }
+            },
+                        {
+                "threshold": 6007,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/toolskins/stary/hoe"
+                }
             }
+
+
         ]
     }
 }

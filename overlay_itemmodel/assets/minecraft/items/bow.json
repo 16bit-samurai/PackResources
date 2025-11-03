@@ -252,7 +252,96 @@
                         ]
                     }
                 }
+            },
+                        {
+                "threshold": 6006,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/netc/toolskins/golden_bow_0"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05,
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "item/netc/toolskins/golden_bow_0"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 0.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "item/netc/toolskins/golden_bow_1"
+                                }
+                            },
+                            {
+                                "threshold": 0.65,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "item/netc/toolskins/golden_bow_2"
+                                }
+                            },
+                            {
+                                "threshold": 0.9,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "item/netc/toolskins/golden_bow_3"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "threshold": 6007,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/netc/toolskins/stary/bow_0"
+                    },
+                    "on_true": {
+                        "type": "minecraft:range_dispatch",
+                        "property": "minecraft:use_duration",
+                        "scale": 0.05,
+                        "fallback": {
+                            "type": "minecraft:model",
+                            "model": "item/netc/toolskins/stary/bow_0"
+                        },
+                        "entries": [
+                            {
+                                "threshold": 0.0,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "item/netc/toolskins/stary/bow_1"
+                                }
+                            },
+                            {
+                                "threshold": 0.65,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "item/netc/toolskins/stary/bow_2"
+                                }
+                            },
+                            {
+                                "threshold": 0.9,
+                                "model": {
+                                    "type": "minecraft:model",
+                                    "model": "item/netc/toolskins/stary/bow_3"
+                                }
+                            }
+                        ]
+                    }
+                }
             }
+
+
+
         ]
     },
     "display": {

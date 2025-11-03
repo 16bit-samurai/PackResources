@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "netc/toolskins/golden_iron_axe"
+    }
+}

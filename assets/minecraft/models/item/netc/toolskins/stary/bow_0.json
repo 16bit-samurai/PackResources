@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "netc/toolskins/stary/bow"
+    }
+}

@@ -14,6 +14,23 @@
                 "model": "minecraft:item/fishing_rod_cast"
             }
         },
-        "entries": []
+        "entries": [
+                        {
+                "threshold": 5001,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/fishing_rod/rod18"
+                }
+            },
+                                    {
+                "threshold": 5002,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/fishing_rod/rod32"
+                }
+            }
+
+
+        ]
     }
 }

@@ -41,7 +41,23 @@
                     "type": "model",
                     "model": "item/netc/toolskins/fantastic_shovel"
                 }
+            },
+                        {
+                "threshold": 6006,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/toolskins/golden_iron_shovel"
+                }
+            },
+                        {
+                "threshold": 6007,
+                "model": {
+                    "type": "model",
+                    "model": "item/netc/toolskins/stary/shovel"
+                }
             }
+
+
         ]
     }
 }
