@@ -28,19 +28,19 @@
         "directory": "overlay_1.21_shader",
         "formats": [
           34,
-          75
+          46
         ],
         "min_format":34,
-        "max_format":75
+        "max_format":46
       },
       {
         "directory": "overlay_1.21.3_shader",
         "formats": [
           42,
-          75
+          46
         ],
         "min_format":42,
-        "max_format":75
+        "max_format":46
       },
       {
         "directory": "overlay_itemmodel",
