@@ -3,10 +3,10 @@
     "pack_format": 34,
     "supported_formats": [
         34,
-        64
+        75
     ],
     "min_format":34,
-    "max_format":69,
+    "max_format":75,
     "description": [
       {
         "text": "喵窝/毛线",
@@ -28,28 +28,28 @@
         "directory": "overlay_1.21_shader",
         "formats": [
           34,
-          46
+          75
         ],
         "min_format":34,
-        "max_format":46
+        "max_format":75
       },
       {
         "directory": "overlay_1.21.3_shader",
         "formats": [
           42,
-          46
+          75
         ],
         "min_format":42,
-        "max_format":46
+        "max_format":75
       },
       {
         "directory": "overlay_itemmodel",
         "formats": [
           46,
-          64
+          75
         ],
         "min_format":46,
-        "max_format":69
+        "max_format":75
       }
     ]
   }
