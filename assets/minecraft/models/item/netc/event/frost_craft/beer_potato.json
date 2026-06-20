@@ -2,7 +2,7 @@
     "parent": "item/netc/event/frost_craft/beer",
 	"textures": {
 		"1": "netc/event/frost_craft/beer",
-		"2": "item/potato",
-		"particle": "item/potato"
+		"2": "netc/event/frost_craft/potato",
+		"particle": "netc/event/frost_craft/potato"
 	}
 }

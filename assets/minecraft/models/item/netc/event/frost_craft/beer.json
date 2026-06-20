@@ -5,8 +5,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"1": "netc/event/frost_craft/beer",
-		"2": "item/wheat",
-		"particle": "item/wheat"
+		"2": "netc/event/frost_craft/wheat"
 	},
 	"elements": [
 		{
