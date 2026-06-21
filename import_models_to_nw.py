@@ -27,7 +27,7 @@ import_dir = abs_path + '/models_to_add'
 json_file_loc = abs_path + '/assets/minecraft/models/item/nw/' + pack_name + '/'
 png_file_loc = abs_path + '/assets/minecraft/textures/nw/' + pack_name + '/'
 old_cmd_loc = abs_path + '/assets/minecraft/models/item/firework_star.json'
-new_cmd_loc = abs_path + '/overlay_1_21_4/assets/minecraft/items/firework_star.json'
+new_cmd_loc = abs_path + '/overlay_itemmodel/assets/minecraft/items/firework_star.json'
 csv_file = abs_path + '/new_pack_cmd.csv'
 
 try:

@@ -12772,6 +12772,894 @@
         "custom_model_data": 154002
       },
       "model": "item/nw/bench_addon/gongyuanchangyi3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155000
+      },
+      "model": "item/nw/26gaza/26gaza001"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155001
+      },
+      "model": "item/nw/26gaza/26gaza002"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155002
+      },
+      "model": "item/nw/26gaza/26gaza004"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155003
+      },
+      "model": "item/nw/26gaza/26gaza005"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155004
+      },
+      "model": "item/nw/26gaza/26gaza006"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155005
+      },
+      "model": "item/nw/26gaza/26gaza007"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155006
+      },
+      "model": "item/nw/26gaza/26gaza008"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155007
+      },
+      "model": "item/nw/26gaza/26gaza009"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155008
+      },
+      "model": "item/nw/26gaza/26gaza010"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155009
+      },
+      "model": "item/nw/26gaza/26gaza011"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155010
+      },
+      "model": "item/nw/26gaza/26gaza012"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155011
+      },
+      "model": "item/nw/26gaza/26gaza013"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155012
+      },
+      "model": "item/nw/26gaza/26gaza014"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155013
+      },
+      "model": "item/nw/26gaza/26gaza015"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155014
+      },
+      "model": "item/nw/26gaza/26gaza016"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155015
+      },
+      "model": "item/nw/26gaza/26gaza017"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155016
+      },
+      "model": "item/nw/26gaza/26gaza018"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155017
+      },
+      "model": "item/nw/26gaza/26gaza019"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155018
+      },
+      "model": "item/nw/26gaza/26gaza020"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155019
+      },
+      "model": "item/nw/26gaza/26gaza022"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155020
+      },
+      "model": "item/nw/26gaza/26gaza023"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155021
+      },
+      "model": "item/nw/26gaza/26gaza024"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155022
+      },
+      "model": "item/nw/26gaza/26gaza025"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155023
+      },
+      "model": "item/nw/26gaza/26gaza027"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155024
+      },
+      "model": "item/nw/26gaza/26gaza028"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155025
+      },
+      "model": "item/nw/26gaza/26gaza029"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155026
+      },
+      "model": "item/nw/26gaza/26gaza030"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155027
+      },
+      "model": "item/nw/26gaza/26gaza031"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155028
+      },
+      "model": "item/nw/26gaza/26gaza032"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155029
+      },
+      "model": "item/nw/26gaza/26gaza033"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155030
+      },
+      "model": "item/nw/26gaza/26gaza034"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155031
+      },
+      "model": "item/nw/26gaza/26gaza035"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155032
+      },
+      "model": "item/nw/26gaza/26gaza036"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155033
+      },
+      "model": "item/nw/26gaza/26gaza037"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155034
+      },
+      "model": "item/nw/26gaza/26gaza038"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155035
+      },
+      "model": "item/nw/26gaza/26gaza039"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155036
+      },
+      "model": "item/nw/26gaza/26gaza040"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155037
+      },
+      "model": "item/nw/26gaza/26gaza041"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155038
+      },
+      "model": "item/nw/26gaza/26gaza042"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155039
+      },
+      "model": "item/nw/26gaza/26gaza043"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155040
+      },
+      "model": "item/nw/26gaza/26gaza044"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155041
+      },
+      "model": "item/nw/26gaza/26gaza045"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155042
+      },
+      "model": "item/nw/26gaza/26gaza046"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155043
+      },
+      "model": "item/nw/26gaza/26gaza047"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155044
+      },
+      "model": "item/nw/26gaza/26gaza048"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155045
+      },
+      "model": "item/nw/26gaza/26gaza049"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155046
+      },
+      "model": "item/nw/26gaza/26gaza050"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155047
+      },
+      "model": "item/nw/26gaza/26gaza052"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155048
+      },
+      "model": "item/nw/26gaza/26gaza053"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155049
+      },
+      "model": "item/nw/26gaza/26gaza054"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155050
+      },
+      "model": "item/nw/26gaza/26gaza055"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155051
+      },
+      "model": "item/nw/26gaza/26gaza056"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155052
+      },
+      "model": "item/nw/26gaza/26gaza057"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155053
+      },
+      "model": "item/nw/26gaza/26gaza058"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155054
+      },
+      "model": "item/nw/26gaza/26gaza059"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155055
+      },
+      "model": "item/nw/26gaza/26gaza060"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155056
+      },
+      "model": "item/nw/26gaza/26gaza061"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155057
+      },
+      "model": "item/nw/26gaza/26gaza062"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155058
+      },
+      "model": "item/nw/26gaza/26gaza064"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155059
+      },
+      "model": "item/nw/26gaza/26gaza065"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155060
+      },
+      "model": "item/nw/26gaza/26gaza066"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155061
+      },
+      "model": "item/nw/26gaza/26gaza067"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155062
+      },
+      "model": "item/nw/26gaza/26gaza068"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155063
+      },
+      "model": "item/nw/26gaza/26gaza069"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155064
+      },
+      "model": "item/nw/26gaza/26gaza070"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155065
+      },
+      "model": "item/nw/26gaza/26gaza071"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155066
+      },
+      "model": "item/nw/26gaza/26gaza072"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155067
+      },
+      "model": "item/nw/26gaza/26gaza073"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155068
+      },
+      "model": "item/nw/26gaza/26gaza074"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155069
+      },
+      "model": "item/nw/26gaza/26gaza075"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155070
+      },
+      "model": "item/nw/26gaza/26gaza076"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155071
+      },
+      "model": "item/nw/26gaza/26gaza077"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155072
+      },
+      "model": "item/nw/26gaza/26gaza078"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155073
+      },
+      "model": "item/nw/26gaza/26gaza079"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155074
+      },
+      "model": "item/nw/26gaza/26gaza080"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155075
+      },
+      "model": "item/nw/26gaza/26gaza081"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155076
+      },
+      "model": "item/nw/26gaza/26gaza082"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155077
+      },
+      "model": "item/nw/26gaza/26gaza083"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155078
+      },
+      "model": "item/nw/26gaza/26gaza084"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155079
+      },
+      "model": "item/nw/26gaza/26gaza085"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155080
+      },
+      "model": "item/nw/26gaza/26gaza086"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155081
+      },
+      "model": "item/nw/26gaza/26gaza087"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155082
+      },
+      "model": "item/nw/26gaza/26gaza088"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155083
+      },
+      "model": "item/nw/26gaza/26gaza089"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155084
+      },
+      "model": "item/nw/26gaza/26gaza090"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155085
+      },
+      "model": "item/nw/26gaza/26gaza091"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155086
+      },
+      "model": "item/nw/26gaza/26gaza092"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155087
+      },
+      "model": "item/nw/26gaza/26gaza093"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155088
+      },
+      "model": "item/nw/26gaza/26gaza094"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155089
+      },
+      "model": "item/nw/26gaza/26gaza095"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155090
+      },
+      "model": "item/nw/26gaza/26gaza096"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155091
+      },
+      "model": "item/nw/26gaza/26gaza097"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155092
+      },
+      "model": "item/nw/26gaza/26gaza098"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155093
+      },
+      "model": "item/nw/26gaza/26gaza099"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155094
+      },
+      "model": "item/nw/26gaza/26gaza100"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155095
+      },
+      "model": "item/nw/26gaza/26gaza102"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155096
+      },
+      "model": "item/nw/26gaza/26gaza104"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155097
+      },
+      "model": "item/nw/26gaza/26gaza108"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155098
+      },
+      "model": "item/nw/26gaza/26gaza109"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155099
+      },
+      "model": "item/nw/26gaza/26gaza110"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155100
+      },
+      "model": "item/nw/26gaza/26gaza111"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155101
+      },
+      "model": "item/nw/26gaza/26gaza112"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155102
+      },
+      "model": "item/nw/26gaza/26gaza114"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155103
+      },
+      "model": "item/nw/26gaza/26gaza115"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155104
+      },
+      "model": "item/nw/26gaza/26gaza116"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155105
+      },
+      "model": "item/nw/26gaza/26gaza117"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155106
+      },
+      "model": "item/nw/26gaza/26gaza118"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155107
+      },
+      "model": "item/nw/26gaza/26gaza119"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155108
+      },
+      "model": "item/nw/26gaza/26gaza120"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155109
+      },
+      "model": "item/nw/26gaza/26gaza121"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155110
+      },
+      "model": "item/nw/26gaza/26gaza122"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155111
+      },
+      "model": "item/nw/26gaza/26gaza123"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155112
+      },
+      "model": "item/nw/26gaza/26gaza124"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155113
+      },
+      "model": "item/nw/26gaza/26gaza125"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155114
+      },
+      "model": "item/nw/26gaza/26gaza126"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155115
+      },
+      "model": "item/nw/26gaza/26gaza127"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155116
+      },
+      "model": "item/nw/26gaza/26gaza128"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155117
+      },
+      "model": "item/nw/26gaza/26gaza129"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155118
+      },
+      "model": "item/nw/26gaza/26gaza130"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155119
+      },
+      "model": "item/nw/26gaza/26gaza131"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155120
+      },
+      "model": "item/nw/26gaza/26gaza132"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155121
+      },
+      "model": "item/nw/26gaza/26gaza133"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155122
+      },
+      "model": "item/nw/26gaza/26gaza134"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155123
+      },
+      "model": "item/nw/26gaza/26gaza135"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155124
+      },
+      "model": "item/nw/26gaza/26gaza136"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155125
+      },
+      "model": "item/nw/26gaza/26gaza137"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155126
+      },
+      "model": "item/nw/26gaza/26gaza138"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155127
+      },
+      "model": "item/nw/26gaza/26gaza140"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155128
+      },
+      "model": "item/nw/26gaza/26gaza141"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155129
+      },
+      "model": "item/nw/26gaza/26gaza142"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155130
+      },
+      "model": "item/nw/26gaza/26gaza143"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155131
+      },
+      "model": "item/nw/26gaza/26gaza144"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155132
+      },
+      "model": "item/nw/26gaza/26gaza145"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155133
+      },
+      "model": "item/nw/26gaza/26gaza146"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155134
+      },
+      "model": "item/nw/26gaza/26gaza147"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155135
+      },
+      "model": "item/nw/26gaza/26gaza148"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155136
+      },
+      "model": "item/nw/26gaza/26gaza149"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155137
+      },
+      "model": "item/nw/26gaza/26gaza150"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155138
+      },
+      "model": "item/nw/26gaza/26gaza151"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155139
+      },
+      "model": "item/nw/26gaza/26gaza152"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155140
+      },
+      "model": "item/nw/26gaza/26gaza153"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155141
+      },
+      "model": "item/nw/26gaza/26gaza154"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155142
+      },
+      "model": "item/nw/26gaza/26gaza155"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155143
+      },
+      "model": "item/nw/26gaza/26gaza156"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155144
+      },
+      "model": "item/nw/26gaza/26gaza157"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155145
+      },
+      "model": "item/nw/26gaza/26gaza158"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155146
+      },
+      "model": "item/nw/26gaza/26gaza159"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155147
+      },
+      "model": "item/nw/26gaza/26gaza161"
     }
   ]
 }

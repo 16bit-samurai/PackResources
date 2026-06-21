@@ -38096,6 +38096,2522 @@
             }
           ]
         }
+      },
+      {
+        "threshold": 155000,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza001",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155001,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza002",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155002,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza004",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155003,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza005",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155004,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza006",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155005,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza007",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155006,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza008",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155007,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza009",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155008,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza010",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155009,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza011",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155010,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza012",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155011,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza013",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155012,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza014",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155013,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza015",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155014,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza016",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155015,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza017",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155016,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza018",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155017,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza019",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155018,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza020",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155019,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza022",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155020,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza023",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155021,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza024",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155022,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza025",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155023,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza027",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155024,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza028",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155025,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza029",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155026,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza030",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155027,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza031",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155028,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza032",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155029,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza033",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155030,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza034",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155031,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza035",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155032,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza036",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155033,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza037",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155034,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza038",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155035,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza039",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155036,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza040",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155037,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza041",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155038,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza042",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155039,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza043",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155040,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza044",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155041,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza045",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155042,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza046",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155043,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza047",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155044,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza048",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155045,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza049",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155046,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza050",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155047,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza052",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155048,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza053",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155049,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza054",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155050,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza055",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155051,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza056",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155052,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza057",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155053,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza058",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155054,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza059",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155055,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza060",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155056,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza061",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155057,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza062",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155058,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza064",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155059,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza065",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155060,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza066",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155061,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza067",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155062,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza068",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155063,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza069",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155064,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza070",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155065,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza071",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155066,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza072",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155067,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza073",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155068,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza074",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155069,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza075",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155070,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza076",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155071,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza077",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155072,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza078",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155073,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza079",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155074,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza080",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155075,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza081",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155076,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza082",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155077,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza083",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155078,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza084",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155079,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza085",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155080,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza086",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155081,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza087",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155082,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza088",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155083,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza089",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155084,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza090",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155085,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza091",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155086,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza092",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155087,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza093",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155088,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza094",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155089,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza095",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155090,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza096",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155091,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza097",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155092,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza098",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155093,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza099",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155094,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza100",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155095,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza102",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155096,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza104",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155097,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza108",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155098,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza109",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155099,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza110",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155100,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza111",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155101,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza112",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155102,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza114",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155103,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza115",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155104,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza116",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155105,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza117",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155106,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza118",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155107,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza119",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155108,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza120",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155109,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza121",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155110,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza122",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155111,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza123",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155112,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza124",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155113,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza125",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155114,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza126",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155115,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza127",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155116,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza128",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155117,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza129",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155118,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza130",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155119,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza131",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155120,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza132",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155121,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza133",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155122,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza134",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155123,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza135",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155124,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza136",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155125,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza137",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155126,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza138",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155127,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza140",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155128,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza141",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155129,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza142",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155130,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza143",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155131,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza144",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155132,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza145",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155133,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza146",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155134,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza147",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155135,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza148",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155136,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza149",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155137,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza150",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155138,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza151",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155139,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza152",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155140,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza153",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155141,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza154",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155142,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza155",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155143,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza156",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155144,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza157",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155145,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza158",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155146,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza159",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
+      },
+      {
+        "threshold": 155147,
+        "model": {
+          "type": "model",
+          "model": "item/nw/26gaza/26gaza161",
+          "tints": [
+            {
+              "type": "constant",
+              "value": -1
+            },
+            {
+              "type": "firework",
+              "default": -7697782
+            }
+          ]
+        }
       }
     ]
   }
